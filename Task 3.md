@@ -1,4 +1,4 @@
-3. Các tính năng của Webmail cung cấp:
+Các tính năng của Webmail cung cấp:
 
 1. Manage your inbox (quản lý hộp thư của bạn)
 - Autoresponder (Trả lời tự động): sử dụng tính năng này để thiết lập email tự động khi bạn đang đi nghỉ mát.
