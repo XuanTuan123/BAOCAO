@@ -9,6 +9,7 @@
 - Sau đó, nhấn Save.
 
 3. Các tính năng của Webmail cung cấp:
+
 Manage your inbox (Quản lý hộp thư của bạn)
 - Autoresponder (Trả lời tự động): sử dụng tính năng này để thiết lập email tự động khi bạn đang có 1 kỳ nghỉ lễ.
 - Email filters (Bộ lọc email): tạo và quản lý các bộ lọc cho tài khoản email của bạn.
