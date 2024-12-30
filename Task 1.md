@@ -1,6 +1,6 @@
 **1. Tổng hợp các dịch vụ VinaHost cung cấp tại trang vinahost.vn**
 
-- Máy chủ - Chỗ đặt máy chủ/ Server - Colocation: là loại dịch vụ lưu trữ dữ liệu, ở đó khách hàng thuê toàn bộ 1 mấy chủ vật lý để sử dụng riêng cho mình.
+- Máy chủ - Chỗ đặt máy chủ/ Server - Colocation: là loại dịch vụ lưu trữ dữ liệu, ở đó khách hàng thuê toàn bộ 1 máy chủ vật lý để sử dụng riêng cho mình.
 - Máy chủ đám mây/ Cloud Server: là dịch vụ cung cấp không gian lưu trữ, quản lý và truy cập dữ liệu.
 - Máy chủ ảo/ VPS (Virtual Private Server): cho phép người dùng tạo và quản lý website hoặc ứng dụng với sự ổn định cao, tốc độ truy xuất nhanh.
 - Dịch vụ CDN/ CDN (Content Delivery Network): là hệ thống các máy chủ được phân bố ở nhiều nơi khác nhau trên thế giới, mục đích cải thiện tốc độ tải trang web, giảm độ trễ và tăng cường khả năng truy cập của nội dung đến người dùng.
