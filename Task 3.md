@@ -7,7 +7,7 @@ Các tính năng của Webmail cung cấp:
 2. Edit your Settings (chỉnh sửa cài đặt của bạn)
 - Password and Security (Mật khẩu và Bảo mật): cập nhật mật khẩu Webmail của bạn.
 - Contact information (thông tin liên hệ): thiết lập 1 địa chỉ email khác để nhận thông báo tài khoản và xác nhận đặt lại mật khẩu. 
-- Account Preferences (Tùy chọn tài khoản): thay đổi các đặt tài khoản Webmail của bạn.
+- Account Preferences (Tùy chọn tài khoản): thay đổi các cài đặt tài khoản Webmail của bạn.
 3. Fight spam (chống thư rác)
 - Spam filters (bộ lọc thư rác): bộ lọc các email không mong muốn trước khi đến hộp thư bạn.
 - Boxtrapper: bảo vệ hộp thư đến của bạn khỏi thư rác bằng cách yêu cầu người gửi email xác minh trước khi bạn nhận thư.
