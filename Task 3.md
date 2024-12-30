@@ -14,6 +14,8 @@ Manage your inbox (Quản lý hộp thư của bạn)
 - Autoresponder (Trả lời tự động): sử dụng tính năng này để thiết lập email tự động khi bạn đang có 1 kỳ nghỉ lễ.
 - Email filters (Bộ lọc email): tạo và quản lý các bộ lọc cho tài khoản email của bạn.
 - Forwarders (Chuyển tiếp): tự động gửi 1 bản sao đến bất kỳ email nào từ email này đến email khác.
+![image](https://github.com/user-attachments/assets/3fdc09d7-7e2e-4e9f-8579-817b475eae05)
+
 
 Edit your Settings (Chỉnh sửa cài đặt của bạn)
 - Password and Security (Mật khẩu và Bảo mật): thay đổi và cập nhật mật khẩu Webmail của bạn.
