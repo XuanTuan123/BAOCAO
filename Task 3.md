@@ -15,7 +15,7 @@ Các tính năng của Webmail cung cấp:
 - Account Preferences (Tùy chọn tài khoản): thay đổi các đặt tài khoản Webmail của bạn.
 3. Fight spam (chống thư rác)
 - Spam filters (bộ lọc thư rác): bộ lọc các email không mong muốn trước khi đến hộp thư bạn.
-- Boxtrapper (): bảo vệ hộp thư đến của bạn khỏi thư rác
+- Boxtrapper: bảo vệ hộp thư đến của bạn khỏi thư rác.
 4. Other Webmail Features (các tính năng khác của Webmail)
 - Configure Mail Client (cấu hinh mail cho khách hàng): thiết lập email của bạn với bất kì thiết bị nào.
 - Manage Disk Usage (quản lý bộ nhớ đã dùng): xóa những tin nhắn cũ và khôi phục dung lượng ổ đĩa.
