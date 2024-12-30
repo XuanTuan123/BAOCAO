@@ -21,12 +21,18 @@ Edit your Settings (Chỉnh sửa cài đặt của bạn)
 - Password and Security (Mật khẩu và Bảo mật): thay đổi và cập nhật mật khẩu Webmail của bạn.
 - Contact information (Thông tin liên hệ): thiết lập 1 địa chỉ email khác để nhận thông báo tài khoản và xác nhận đặt lại mật khẩu. 
 - Account Preferences (Tùy chọn tài khoản): thay đổi các cài đặt tài khoản Webmail của bạn.
+![image](https://github.com/user-attachments/assets/2001152c-a839-4e0d-bb72-0b1764eb4658)
+
 
 Fight spam (Chống thư rác)
 - Spam filters (Bộ lọc thư rác): bộ lọc các email không mong muốn trước khi đến hộp thư bạn.
 - Boxtrapper: bảo vệ hộp thư đến của bạn khỏi thư rác bằng cách yêu cầu người gửi email xác minh trước khi bạn nhận thư.
+![image](https://github.com/user-attachments/assets/f4a411d2-6aa1-43be-b41e-7cb44313e9cd)
+
 
 Other Webmail Features (Các tính năng khác của Webmail)
 - Configure Mail Client (Cấu hình các ứng dụng mail client): thiết lập tài khoản email của bạn trên bất kì thiết bị nào.
 - Manage Disk Usage (Quản lý bộ nhớ đã dùng): xóa những tin nhắn cũ và khôi phục dung lượng ổ đĩa.
 - Track Delivery (Theo dõi hành trình): xem lại hành trình gửi mail.
+![image](https://github.com/user-attachments/assets/e8ad4679-aba3-421d-899c-d2b09399b330)
+
