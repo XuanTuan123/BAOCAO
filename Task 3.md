@@ -2,7 +2,7 @@ Các tính năng của Webmail cung cấp:
 
 1. Manage your inbox (quản lý hộp thư của bạn)
 - Autoresponder (Trả lời tự động): sử dụng tính năng này để thiết lập email tự động khi bạn đang có 1 kỳ nghỉ lễ.
-- Email filter (Bộ lọc email): tạo và quản lý các bộ lọc cho tài khoản email của bạn.
+- Email filters (Bộ lọc email): tạo và quản lý các bộ lọc cho tài khoản email của bạn.
 - Forwarders (Chuyển tiếp): tự động gửi 1 bản sao đến bất kỳ email nào từ email này đến email khác.
 2. Edit your Settings (chỉnh sửa cài đặt của bạn)
 - Password and Security (Mật khẩu và Bảo mật): cập nhật mật khẩu Webmail của bạn.
