@@ -5,7 +5,7 @@ Các tính năng của Webmail cung cấp:
 - Email filters (Bộ lọc email): tạo và quản lý các bộ lọc cho tài khoản email của bạn.
 - Forwarders (Chuyển tiếp): tự động gửi 1 bản sao đến bất kỳ email nào từ email này đến email khác.
 2. Edit your Settings (chỉnh sửa cài đặt của bạn)
-- Password and Security (Mật khẩu và Bảo mật): cập nhật mật khẩu Webmail của bạn.
+- Password and Security (Mật khẩu và Bảo mật): thay đổi và cập nhật mật khẩu Webmail của bạn.
 - Contact information (thông tin liên hệ): thiết lập 1 địa chỉ email khác để nhận thông báo tài khoản và xác nhận đặt lại mật khẩu. 
 - Account Preferences (Tùy chọn tài khoản): thay đổi các cài đặt tài khoản Webmail của bạn.
 3. Fight spam (chống thư rác)
