@@ -1,3 +1,13 @@
+Kiểm tra gửi/nhận mail
+- Tải Mozilla Thunderbird
+- Đăng nhập địa chỉ email: "tuanhhx.tts@vinahost.vn"
+- ![image](https://github.com/user-attachments/assets/b65d9f3f-46db-4d59-be19-334e23256332)
+
+
+
+
+
+
 Các tính năng của Webmail cung cấp:
 
 1. Manage your inbox (Quản lý hộp thư của bạn)
