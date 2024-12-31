@@ -2,10 +2,13 @@
 -
 **1. Email Hosting**: Là dịch vụ phù hợp với doanh nghiệp vừa và nhỏ, không có đội ngũ IT chuyên sâu để quản lý.
 
-    Nhược điểm: 
+Nhược điểm: 
+
     - Phụ thuộc vào nhà cung cấp dịch vụ (nhà cung cấp dịch vụ chỉ cung cấp user đăng nhập mail).
     - Nếu 1 người sử dụng chung nguồn IP đó bị đánh dấu spam, thì sẽ ảnh hưởng đến uy tín và khả năng gửi email. Tuy nhiên, điều này có thể giải quyết bằng việc sử dụng thêm dịch vụ Email Relay để bị đưa vào danh sách spam.
-    Ưu điểm: 
+    
+ Ưu điểm: 
+ 
     - Dễ triển khai, không cần quản lý quá nhiều về mặt kỹ thuật.
     - Khả năng mở rộng linh hoạt khi doanh nghiệp phát triển.
     - Giảm thiểu tình trạng email bị đánh dấu spam, bị đưa vào blacklist IP.
@@ -16,11 +19,14 @@ Một số nhà cung cấp dịch vụ email hosting uy tín như là Vinahost,.
 
 **2. Email Relay**: là dịch vụ email chuyển tiếp, là quá trình sử dụng một máy chủ trung gian có độ uy tín IP cao để gửi mail đến địa chỉ được chỉ định.
 
-    Nhược điểm:
+ Nhược điểm:
+ 
     - Chi phí bảo trì rất tốn kém, cần đầu tư vào hạ tầng, nhân lực chuyên môn.
     - Cần kiến thức chuyên môn hiểu các tiêu chuẩn xác thực như SPF, DKIM, DMARC để tối ưu hóa cho chiến dịch email marketing của mình.
     - Phụ thuộc vào nhà cung cấp dịch vụ relay.
-    Ưu điểm:
+    
+ Ưu điểm:
+ 
     - Cải thiện độ tin cậy và khả năng gửi mail, giảm tỉ lệ bị đánh dấu spam.
     - Bảo mật và kiểm soát đường đi của các email được chuyển tiếp, ẩn thông tin máy chủ nội bộ gửi đi.
     - Giúp quản lý lưu lượng phân phối email hiệu quả, tránh việc máy chủ nội bộ bị quá tải.
@@ -28,11 +34,14 @@ Một số nhà cung cấp dịch vụ email hosting uy tín như là Vinahost,.
 
 **3. Email Marketing**: là dịch vụ phù hợp cho doanh nghiệp cần triển khai chiến dịch quảng bá, bán hàng và thiếp thị sản phẩm với số lượng lớn đến tệp khách hàng mục tiêu.
 
-    Nhược điểm:
+ Nhược điểm:
+ 
     - Email marketing dễ bị đánh dấu spam.
     - Đối mặt với sự thờ ơ của khách hàng đới với email quảng cáo.
     - Phụ thuộc vào khả năng kết nối Internet của khách hàng.
-    Ưu điểm:
+    
+ Ưu điểm:
+ 
     - Doanh nghiệp dễ dàng truyền tải thông tin chiến dịch đến với khách hàng mục tiêu.
     - Nâng cao giá trị thương hiệu của doanh nghiệp. 
     - Giúp doanh nghiệp có thể theo dõi chỉ số (tỉ lệ mở mail, tỉ lệ nhấp chuột) để tìm ra cách xây dựng email marketing tốt nhất nhờ công cụ Google Analytics.
