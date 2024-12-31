@@ -66,7 +66,14 @@ Cả ba phương thức trên đều lưu trữ ở DNS server.
 - Bảo mật mail.
 - Quản lý dung lượng hộp thư.
 
-**2. Email server**: là hệ thống hỗ trợ việc gửi/ nhận email với các chức năng chính: 
+**2. Email server**: là hệ thống hỗ trợ việc gửi/ nhận email và lưu trữ mail.
+
+Có hai loại chính: 
+
+    - Incoming Mail Server (xử lý mail đến, sử dụng giao thức SMTP/POP3).
+    - Outgoing Mail Server (xử lý mail gửi đi, sử dụng giao thức IMAP).
+
+Các chức năng chính: 
 - Cho phép gửi/nhận thông qua giao thức SMTP
 cổng 25 mặc định thường bị chặn do spam, cổng 465/587 kết nối bảo mật SSL/TSL; POP3 (cổng 110 không mã hóa, cổng 995 kết nối bảo mật SSL/TLS).
 - Quản lý hộp thư (hộp thư, thư nháp, đã gửi, thư rác, thùng rác, lưu trữ).
