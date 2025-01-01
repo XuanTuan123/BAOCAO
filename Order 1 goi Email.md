@@ -204,35 +204,38 @@ Cấu hình Mail Client trên OutLook như sau:
 
 - Nhấn chọn tab **File** -> **Info** -> **Add Account**.
 
-![Screenshot 2025-01-01 192529](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20192529.png)
+![Screenshot 2025-01-01 192529](https://github.com/user-attachments/assets/22b0b3dc-f59b-4324-9bf3-3323e6c74e68)
 
-![Screenshot 2025-01-01 192650](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20192650.png)
+![Screenshot 2025-01-01 192650](https://github.com/user-attachments/assets/e13358dd-22b8-4299-9808-5ec086b2b82e)
 
 - Giao diện đăng nhập ban đầu. Nhập thông tin tài khoản email **user1@tuanhhx.io.vn**, nhấn **Connect**.
 
-![Screenshot 2025-01-01 192749](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20192749.png)
+![Screenshot 2025-01-01 192749](https://github.com/user-attachments/assets/2e2b5876-7e85-4513-b907-2c0cb90dd3c1)
 
 - Tại **Choose account type** chọn **IMAP** để tài khoản có thể gửi/nhận và lưu trữ email.
 
-![Screenshot 2025-01-01 193002](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20193002.png)
+![Screenshot 2025-01-01 193002](https://github.com/user-attachments/assets/50afdcb4-a298-42de-847b-acbc7e0c80ca)
+
 
 - Nhập thông tin như hình bên dưới kèm theo **Password** của **user1@tuanhhx.io.vn** và bấm **Connect**.
 
-![Screenshot 2025-01-01 193251](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20193251.png)
+![Screenshot 2025-01-01 193251](https://github.com/user-attachments/assets/16d2c154-4773-4032-b6ee-ca57115d8f01)
 
-![Screenshot 2025-01-01 193422](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20193422.png)
+![Screenshot 2025-01-01 193422](https://github.com/user-attachments/assets/e4036536-116a-4afc-8775-9ec5b8cc31ba)
 
 - Cuối cùng, hoàn tất đăng nhập.
 
-![Screenshot 2025-01-01 193748](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20193748.png)
+![Screenshot 2025-01-01 193748](https://github.com/user-attachments/assets/b89935f3-c3c3-4564-a6a9-91264fb0c0e3)
 
     Việc đăng nhập user2@tuanhhx.io.vn cũng làm tương tự như vậy.
     
 - Kết quả gửi nhận ở **bước 5**, chúng ta sẽ thấy khi đăng nhập trên OutLook như hình:
 
-![Screenshot 2025-01-01 194040](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20194040.png)
+![Screenshot 2025-01-01 194040](https://github.com/user-attachments/assets/7a3246de-dec2-44e5-addb-7b44d1b0752b)
 
-![Screenshot 2025-01-01 194109](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20194109.png)
+![Screenshot 2025-01-01 194109](https://github.com/user-attachments/assets/db4a0076-500c-4292-b0a0-6dea781cd4e9)
+
+
 
 
 
