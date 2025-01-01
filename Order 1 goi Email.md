@@ -141,33 +141,39 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Đăng nhập tài khoản được cấp, ví dụ như hình:
 
-![Screenshot 2025-01-01 184613](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20184613.png)
+![Screenshot 2025-01-01 184613](https://github.com/user-attachments/assets/67fc745d-8e26-492e-afd6-8cdaa0ec71b8)
+
 
 - Đăng nhập thành công, dashboard của cPanel hiện ra:
 
-![Screenshot 2025-01-01 184857](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20184857.png)
+![Screenshot 2025-01-01 184857](https://github.com/user-attachments/assets/6276e37c-fe3f-405b-a365-2198868be10b)
+
 
 **Bước 2**:
 
 - Để tạo tài khoản email, ta tìm đến **Email** -> **Email Accounts**. Sau đó, sẽ hiển thị giao diện như sau:
 
-![Screenshot 2025-01-01 185323](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20185323.png)
+![Screenshot 2025-01-01 185323](https://github.com/user-attachments/assets/c15fed6c-3142-4567-9ca3-0ef61396ee24)
+
 
 **Bước 3**:
 
 - Nhấn vào nút **Create** màu xanh ở góc phải màn hình.
 
-![Screenshot 2025-01-01 185602](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20185602.png)
+![Screenshot 2025-01-01 185602](https://github.com/user-attachments/assets/1098d3d1-cd12-44b7-af5b-707c0f383c17)
+
 
 **Bước 4**:
 
 - Tại giao diện này, chúng ta điền vào ô **Username** và **Password** rồi nhấn chọn **Create**. Sau khi tạo tài khoản xong, sẽ hiển thị các tài khoản như sau:
 
-![Screenshot 2025-01-01 185911](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20185911.png)
+![Screenshot 2025-01-01 185911](https://github.com/user-attachments/assets/6e5d9155-53d9-49d5-a468-6bee081c5624)
+
 
 - Lưu ý: Nếu muốn giới hạn dung lượng sử dụng email, chúng ta có thể chọn **Edit Settings** tại mục **Optional Settings**:
 
-![Screenshot 2025-01-01 190202](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20190202.png)
+![Screenshot 2025-01-01 190202](https://github.com/user-attachments/assets/9154ccbd-8ef0-4473-abe6-d50508c838a4)
+
 
     Tại Storage Space có 2 tùy chọn 1024 MB hoặc Unlimited.
     
@@ -175,19 +181,22 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Nhấn vào biểu tượng có hình cây bút đầu tiên góc trái để soạn email với email nhận là **user2@tuanhhx.io.vn** với nội dung như hình:
 
-![Screenshot 2025-01-01 191450](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20191450.png)
+![Screenshot 2025-01-01 191450](https://github.com/user-attachments/assets/27f7a188-6f83-4001-a99d-569aacb63430)
+
 
 - Tiếp đó, bấm vào nút **Gửi**, để kiểm tra thư đã gửi đi nhấn chọn **Đã gửi** như hình:
 
-![Screenshot 2025-01-01 191901](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20191901.png)
+![Screenshot 2025-01-01 191901](https://github.com/user-attachments/assets/89707536-a473-4ba2-ba4c-c6499a7cf793)
 
-![Screenshot 2025-01-01 192049](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20192049.png)
+![Screenshot 2025-01-01 192049](https://github.com/user-attachments/assets/25002ee1-a581-4c2d-9100-b41e072aa33b)
+
 
 - Đăng nhập vào **user2@tuanhhx.io.vn** để kiểm tra email đã được gửi từ **user1@tuanhhx.io.vn**
 
-![Screenshot 2025-01-01 192145](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20192145.png)
+![Screenshot 2025-01-01 192145](https://github.com/user-attachments/assets/1090bd6c-de53-482b-a1b5-cf1333d3e516)
 
-![Screenshot 2025-01-01 192323](file:///C:/Users/khanh/OneDrive/Hình%20ảnh/Ảnh%20chụp%20màn%20hình/Screenshot%202025-01-01%20192323.png)
+![Screenshot 2025-01-01 192323](https://github.com/user-attachments/assets/13d2a335-5a82-4f81-aba6-c9568c3ffc95)
+
 
 **Bước 6**:
 
