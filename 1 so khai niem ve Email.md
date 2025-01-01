@@ -58,6 +58,9 @@ Ví dụ về MTA phổ biến:
     - Cuối cùng, người nhận sử dụng MUA để lấy mail thông qua giao thức POP3/IMAP.
     
  - **Sơ đồ đường đi**:
+
+   ![Qua trinh MUA MTA MDA drawio](https://github.com/user-attachments/assets/fd548253-f25a-4fb6-9b86-b9b61147f51c)
+
  
  
  
