@@ -55,6 +55,11 @@ Ví dụ về MTA phổ biến:
     - Chấp nhận email được gửi từ MUA.
     - Truy vấn bản ghi MX và chọn Mail Server để chuyển email.
     - Gửi tin nhắn trả lời tự động nếu email không đến được đích.
+ 
+- Vai trò chính:
+
+    - Xử lý hậu cần của việc gửi email, bao gồm xếp hàng và thử lại nếu lần thử đầu tiên không thành công.
+    - Nhờ đó đảm bảo rằng email được gửi một cách đáng tin cậy.
     
 - Chức năng chính: 
 
