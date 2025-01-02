@@ -49,7 +49,7 @@ Ví dụ:
 **3. MTA (Mail Transfer Agent)**
 -
 - Là thành phần **trung gian** chịu trách nhiệm **gửi email** giữa các máy chủ khác nhau cho đến khi nó đến đúng đích. MTA là "trái tim" của hệ thống email, giúp email được định tuyến qua Internet.
-- Hãy coi nó như một dịch vụ bưu chính cho email, đảm bảo tin nhắn đến đúng địa chỉ. MTA rất quan trọng trong hệ sinh thái email, đảm bảo rằng email được gửi chính xác. Họ sử dụng một giao thức gọi là SMTP (Giao thức truyền thư đơn giản) để gửi email.
+- Hãy coi nó như một dịch vụ bưu chính cho email, đảm bảo tin nhắn đến đúng địa chỉ. MTA rất quan trọng trong hệ sinh thái email, đảm bảo rằng email được gửi chính xác.
 
 Ví dụ về MTA phổ biến:
 
