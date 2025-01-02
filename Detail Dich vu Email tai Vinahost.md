@@ -58,7 +58,7 @@ Tuy nhiên, việc triển khai Email Marketing cần tuân thủ quy định nh
     - Khóa công khai được lưu trên DNS server.
     - Khóa riêng tư được lưu trên Email Server để tạo chữ ký số.
 
-**DMARC (Domain-based Message Authentication, Reporting, and Conformance)**: là phương pháp giải quyết hạn chế các giao thức xác thức email.
+**DMARC (Domain-based Message Authentication, Reporting, and Conformance)**: là phương pháp giải quyết hạn chế các giao thức xác thực email.
 
     - Hoạt động dựa trên hai phương thức phổ biến là SPF và DKIM.
      
