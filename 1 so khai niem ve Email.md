@@ -52,7 +52,7 @@ Ví dụ về MTA phổ biến:
 - Cách hoạt động của MTA thực hiện như sau:
 
     - Chấp nhận email được gửi từ MUA.
-    - Truy vấn bản ghi MX và chọn máy chủ thư để chuyển email.
+    - Truy vấn bản ghi MX và chọn Mail Server để chuyển email.
     - Gửi tin nhắn trả lời tự động nếu email không đến được đích.
     
 - Chức năng chính: 
