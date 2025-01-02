@@ -32,6 +32,13 @@ Ví dụ:
     - Dovecot: phổ biến nhất, hỗ trợ cả IMAP và POP3.
     - Procmail: dùng để lọc và phân loại mail.
 
+- Lợi ích của việc sử dụng MDA:
+
+    - Tăng tỷ lệ gửi.
+    - Cải thiện hiệu suất email.
+    - Tỷ lệ tương tác tốt hơn.
+    - Giảm khiếu nại thư rác và nâng cao các tính năng bảo mật.
+
 - Vai trò của MDA:
   
     - Lưu email đúng hộp thư người nhận.
