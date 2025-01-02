@@ -33,6 +33,7 @@ Ví dụ:
     - Procmail: dùng để lọc và phân loại mail.
 
 - Vai trò của MDA:
+  
     - Lưu email đúng hộp thư người nhận.
     - Hỗ trợ lấy email qua giao thức IMAP/POP3 cho MUA.
     - Chống spam hoặc gắn cờ các email nghi ngờ.
