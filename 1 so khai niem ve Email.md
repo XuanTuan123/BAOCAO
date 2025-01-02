@@ -19,7 +19,7 @@
 
 - Các tính năng chính:
 
-    - Soạn email (có tệp đính kèm) -> nhấn nút "**Gửi**"
+    - Soạn email (có tệp đính kèm) -> nhấn nút "**Gửi**".
     - Quản lý hộp thư (inbox, sent, trash,...).
  
 
