@@ -5,7 +5,18 @@
  Ví dụ: 
  
     - Gmail, Microsoft OutLook, Mozilla ThunderBird,...
-  
+
+- Vai trò chính:
+
+    - Là giao diện chính cho người dùng email.
+    - Chịu trách nhiệm tạo email và bắt đầu chuyển tiếp tới MTA để gửi.
+    
+- Sự khác nhau giữa MUA và MTA:
+
+| MUA (Mail User Agent)                             | MTA (Mail Transfer Agent)                                        |
+|---------------------------------------------------|------------------------------------------------------------------|
+| Tập trung vào tương tác của người dùng với email. | Chịu trách nhiệm chuyển tin nhắn email thực tế giữa các máy chủ. |
+
 - Các tính năng chính:
 
     - Soạn email (có tệp đính kèm) -> nhấn nút "**Gửi**"
