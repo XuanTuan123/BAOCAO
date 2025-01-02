@@ -49,7 +49,7 @@ Ví dụ về MTA phổ biến:
     - Sendmail: cổ điển và lâu đời.
     - Exim: sử dụng rộng rãi trên các máy chủ cPanel.
 
-- Tóm lại, MTA thực hiện như sau:
+- Cách hoạt động của MTA thực hiện như sau:
 
     - Chấp nhận email được gửi từ MUA.
     - Truy vấn bản ghi MX và chọn máy chủ thư để chuyển email.
