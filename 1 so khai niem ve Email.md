@@ -1,6 +1,6 @@
 **1. MUA (Mail User Agent)**
 -
-- Là phần mềm hoặc ứng dụng chạy trên máy tính hoắc thông qua 1 trình duyệt, mà **người dùng tương tác trực tiếp** để thực hiện các thao tác gửi, nhận, đọc và quản lý hộp thư.
+- Là phần mềm hoặc ứng dụng chạy trên máy tính hoặc thông qua 1 trình duyệt, mà **người dùng tương tác trực tiếp** để thực hiện các thao tác gửi, nhận, đọc và quản lý hộp thư.
 
  Ví dụ: 
  
