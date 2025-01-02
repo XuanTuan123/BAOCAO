@@ -48,6 +48,12 @@ Ví dụ về MTA phổ biến:
     - Postfix: phổ biến nhất, mã nguồn mở và mạnh mẽ.
     - Sendmail: cổ điển và lâu đời.
     - Exim: sử dụng rộng rãi trên các máy chủ cPanel.
+
+- Tóm lại, MTA thực hiện như sau:
+
+    - Chấp nhận email được gửi từ MUA.
+    - Truy vấn bản ghi MX và chọn máy chủ thư để chuyển email.
+    - Gửi tin nhắn trả lời tự động nếu email không đến được đích.
     
 - Chức năng chính: 
 
