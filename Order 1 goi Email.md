@@ -56,7 +56,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Chọn Track Delivery, bạn sẽ thấy danh sách các email đã gửi, cùng với trạng thái của chúng (đã gửi, bị lỗi, v.v.).
 
-
+![image](https://github.com/user-attachments/assets/6317f4a3-5db2-4734-a289-50930075d0de)
 
 **5. Global Filters**
 
@@ -67,6 +67,8 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 **Cách sử dụng**:
 
 - Truy cập vào Global Filters, chọn Add Filter, sau đó định nghĩa các điều kiện và hành động mà bạn muốn áp dụng cho các email đến.
+
+![image](https://github.com/user-attachments/assets/e655782b-a022-4265-974a-6b318e53fa6b)
 
 **6. Email Routing**
 
@@ -80,6 +82,8 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 - **Backup Mail Exchanger**: Giữ email khi máy chủ chính không hoạt động.
 - **Remote Mail Exchanger**: Gửi tất cả email đến máy chủ khác.
 
+![image](https://github.com/user-attachments/assets/fcd6c776-9979-4928-a8af-451142386062)
+
 **8. Mailing Lists**
 
 **Chức năng**:
@@ -90,6 +94,8 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Vào mục Mailing Lists, chọn Add Mailing List, sau đó điền thông tin cần thiết như tên danh sách và địa chỉ email quản lý.
 
+![image](https://github.com/user-attachments/assets/50d8d4de-91f2-485f-a9d7-4fcb59aec3a0)
+
 **9. Email Deliverability**
 
 **Chức năng**:
@@ -98,6 +104,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 - Kiểm tra và cấu hình các bản ghi DNS liên quan đến SPF, DKIM và DMARC trong phần DNS Zone Editor của cPanel để tối ưu hóa khả năng gửi email.
+
 
 **10. Spam Filters**
 
@@ -113,6 +120,8 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Truy cập vào mục Spam Filters, bật tùy chọn "Process New Emails and Mark them as Spam", và điều chỉnh các tùy chọn theo nhu cầu.
 
+![image](https://github.com/user-attachments/assets/9323a48c-c12a-4364-a878-203095ebc115)
+
 **11. BoxTrapper**
 
 **Chức năng**:
@@ -125,6 +134,8 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Vào mục BoxTrapper, thiết lập các tùy chọn xác thực và quản lý danh sách người gửi.
 
+![image](https://github.com/user-attachments/assets/d14eede4-80e6-4ec1-a508-03470a58d3ea)
+
 **12. Email Disk Usage**
 
 **Chức năng**:
@@ -136,6 +147,8 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 **Cách sử dụng**:
 
 - Truy cập vào mục Email Disk Usage, xem thông tin chi tiết về dung lượng và thực hiện các hành động cần thiết để tối ưu hóa lưu trữ.
+
+![image](https://github.com/user-attachments/assets/f0923b5d-a651-413e-a3d7-8c31b5d88ef3)
 
 **Cách tạo Account Email**
 -
