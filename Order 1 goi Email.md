@@ -69,15 +69,6 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 - **Backup Mail Exchanger**: Giữ email khi máy chủ chính không hoạt động.
 - **Remote Mail Exchanger**: Gửi tất cả email đến máy chủ khác.
 
-**7. Track Delivery**
-
-**Chức năng**:
-
-- **Theo dõi hành trình gửi email**: Giúp bạn kiểm tra trạng thái của các email đã gửi, bao gồm thông tin về việc gửi thành công hay lỗi, giúp chẩn đoán vấn đề trong việc gửi nhận email.
-
-**Cách sử dụng**:
-- Truy cập vào mục Track Delivery để xem danh sách và trạng thái của các email đã gửi.
-
 **8. Mailing Lists**
 
 **Chức năng**:
