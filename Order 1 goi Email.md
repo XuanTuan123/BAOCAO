@@ -28,6 +28,10 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Truy cập Forwarders, chọn Add Forwarder, nhập địa chỉ email cần chuyển tiếp và địa chỉ đích.
 
+![image](https://github.com/user-attachments/assets/3b2340eb-af70-4d21-bb12-78d458978b7e)
+
+![image](https://github.com/user-attachments/assets/4fdac71e-c31d-4d5e-bbaf-e53d1a69a9ac)
+
 **3. Autoresponders**
 
 **Chức năng**:
