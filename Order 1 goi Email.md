@@ -42,6 +42,10 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Vào mục Autoresponders, nhấn vào Add Autoresponder, điền thông tin như địa chỉ email, tiêu đề và nội dung thông điệp tự động.
 
+![image](https://github.com/user-attachments/assets/48a82992-c180-482c-982a-30a395fe3585)
+
+![image](https://github.com/user-attachments/assets/0d0e3910-5170-41d5-b278-aa45445d262b)
+
 **4. Track Delivery**
 
 **Chức năng**:
@@ -51,6 +55,8 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 **Cách sử dụng**:
 
 - Chọn Track Delivery, bạn sẽ thấy danh sách các email đã gửi, cùng với trạng thái của chúng (đã gửi, bị lỗi, v.v.).
+
+
 
 **5. Global Filters**
 
