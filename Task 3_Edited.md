@@ -50,5 +50,11 @@ Chọn người nhận: Có thể nhập địa chỉ email của người nhậ
 
 - **Xác thực hai yếu tố (2FA)**: Một số dịch vụ cung cấp tính năng bảo mật bổ sung này để bảo vệ tài khoản của người dùng.
 
+**10. Thiết lập cấu hình cơ bản**
+
+- **Tạo chữ ký** (Các nhận diện): là thông tin của người gửi có kèm thương hiệu của doanh nghiệp.
+
+- **Các thư mục** (Folders): cho phép tùy chọn hiển thị các mục như hộp thư, thư nháp, đã gửi, thùng rác, lưu trữ... ở mục **Quản lý hộp thư**.
+
 Những tính năng này giúp webmail trở thành một công cụ mạnh mẽ trong việc quản lý giao tiếp qua email một cách hiệu quả và tiện lợi.
 
