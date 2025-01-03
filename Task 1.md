@@ -8,7 +8,6 @@
 - Tên miền/ Domain Name: là tên xác định cho 1 địa chỉ IP trên Internet, giúp người dùng có thể dễ dàng nhớ và truy cập thông qua tên miền này.
 - Thiết kế Website/ Web Design: cung cấp đa dạng kho giao diện trên nhiều lĩnh vực với chi phí rẻ, các tính năng nổi bật như quản lý website, quản lý bài viết và sản phẩm với độ bảo mật cao.
 - Bản quyền/ License: cung cấp bản quyền uy tín, chất lượng như Cpanel, Direct Admin,... với giá thành cạnh tranh.
-- Anti DDoS Proxy: là dịch vụ giúp bảo vệ trang web khi bị tấn công DDoS.
 - Chứng chỉ số/ SSL Certificate: giúp mã hóa thông tin một cách hiệu quả, chống giả mạo và xác thực danh tính của người gửi.
 - Email Server/ Email Doanh nghiệp: cung cấp hệ thống quản lý thư điện tử cho doanh nghiệp, cho phép công ty gửi/ nhận mail và lưu trữ dữ liệu của mail.
 
