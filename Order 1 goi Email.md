@@ -13,7 +13,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Nhấn vào Email Accounts, sau đó chọn Create để tạo tài khoản mới. Điền thông tin cần thiết như tên người dùng, mật khẩu và dung lượng lưu trữ.
+- Nhấn vào **Email Accounts**, sau đó chọn **Create** để tạo tài khoản mới. Điền thông tin cần thiết như tên người dùng, mật khẩu và dung lượng lưu trữ.
 
 ![image](https://github.com/user-attachments/assets/516a409f-6882-4a85-8d0e-0c654cff9bbb)
 
@@ -26,7 +26,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Truy cập Forwarders, chọn Add Forwarder, nhập địa chỉ email cần chuyển tiếp và địa chỉ đích.
+- Truy cập **Forwarders**, chọn **Add Forwarder**, nhập địa chỉ email cần chuyển tiếp và địa chỉ đích.
 
 ![image](https://github.com/user-attachments/assets/3b2340eb-af70-4d21-bb12-78d458978b7e)
 
@@ -40,7 +40,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Vào mục Autoresponders, nhấn vào Add Autoresponder, điền thông tin như địa chỉ email, tiêu đề và nội dung thông điệp tự động.
+- Vào mục **Autoresponders**, nhấn vào **Add Autoresponder**, điền thông tin như địa chỉ email, tiêu đề và nội dung thông điệp tự động.
 
 ![image](https://github.com/user-attachments/assets/48a82992-c180-482c-982a-30a395fe3585)
 
@@ -54,7 +54,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Chọn Track Delivery, bạn sẽ thấy danh sách các email đã gửi, cùng với trạng thái của chúng (đã gửi, bị lỗi, v.v.).
+- Chọn **Track Delivery**, bạn sẽ thấy danh sách các email đã gửi, cùng với trạng thái của chúng (đã gửi, bị lỗi, v.v.).
 
 ![image](https://github.com/user-attachments/assets/6317f4a3-5db2-4734-a289-50930075d0de)
 
@@ -66,7 +66,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Truy cập vào Global Filters, chọn Add Filter, sau đó định nghĩa các điều kiện và hành động mà bạn muốn áp dụng cho các email đến.
+- Truy cập vào **Global Filters**, chọn **Add Filter**, sau đó định nghĩa các điều kiện và hành động mà bạn muốn áp dụng cho các email đến.
 
 ![image](https://github.com/user-attachments/assets/e655782b-a022-4265-974a-6b318e53fa6b)
 
@@ -92,7 +92,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Vào mục Mailing Lists, chọn Add Mailing List, sau đó điền thông tin cần thiết như tên danh sách và địa chỉ email quản lý.
+- Vào mục **Mailing Lists**, chọn **Add Mailing List**, sau đó điền thông tin cần thiết như tên danh sách và địa chỉ email quản lý.
 
 ![image](https://github.com/user-attachments/assets/50d8d4de-91f2-485f-a9d7-4fcb59aec3a0)
 
@@ -103,7 +103,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 - Cải thiện khả năng gửi email: Đảm bảo rằng email của bạn không bị đánh dấu là spam và đến được hộp thư đến của người nhận. Điều này thường bao gồm việc cấu hình SPF, DKIM và DMARC.
 
 **Cách sử dụng**:
-- Kiểm tra và cấu hình các bản ghi DNS liên quan đến SPF, DKIM và DMARC trong phần DNS Zone Editor của cPanel để tối ưu hóa khả năng gửi email.
+- Kiểm tra và cấu hình các bản ghi DNS liên quan đến SPF, DKIM và DMARC trong phần DNS **Zone Editor** của cPanel để tối ưu hóa khả năng gửi email.
 
 
 **10. Spam Filters**
@@ -118,7 +118,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Truy cập vào mục Spam Filters, bật tùy chọn "Process New Emails and Mark them as Spam", và điều chỉnh các tùy chọn theo nhu cầu.
+- Truy cập vào mục **Spam Filters**, bật tùy chọn "**Process New Emails and Mark them as Spam**", và điều chỉnh các tùy chọn theo nhu cầu.
 
 ![image](https://github.com/user-attachments/assets/9323a48c-c12a-4364-a878-203095ebc115)
 
@@ -132,7 +132,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Vào mục BoxTrapper, thiết lập các tùy chọn xác thực và quản lý danh sách người gửi.
+- Vào mục **BoxTrapper**, thiết lập các tùy chọn xác thực và quản lý danh sách người gửi.
 
 ![image](https://github.com/user-attachments/assets/d14eede4-80e6-4ec1-a508-03470a58d3ea)
 
@@ -146,9 +146,11 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 **Cách sử dụng**:
 
-- Truy cập vào mục Email Disk Usage, xem thông tin chi tiết về dung lượng và thực hiện các hành động cần thiết để tối ưu hóa lưu trữ.
+- Truy cập vào mục **Email Disk Usage**, xem thông tin chi tiết về dung lượng và thực hiện các hành động cần thiết để tối ưu hóa lưu trữ.
 
 ![image](https://github.com/user-attachments/assets/f0923b5d-a651-413e-a3d7-8c31b5d88ef3)
+
+<có 2 tính năng mới, nghiên cứu cập nhật>
 
 **Cách tạo Account Email**
 -
