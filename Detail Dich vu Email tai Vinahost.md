@@ -10,7 +10,6 @@ Nhược điểm:
  Ưu điểm: 
  
     - Dễ triển khai, không cần quản lý quá nhiều về mặt kỹ thuật.
-    - Khả năng mở rộng linh hoạt khi doanh nghiệp phát triển.
     - Giảm thiểu tình trạng email bị đánh dấu spam, bị đưa vào blacklist IP.
     - Tăng độ uy tín của thương hiệu doanh nghiệp.
     - Việc bảo trì đều được đội ngũ kỹ thuật hỗ trợ 24/7.
