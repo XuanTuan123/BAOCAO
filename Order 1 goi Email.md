@@ -76,7 +76,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - **Quản lý cách xử lý email đến**: Bạn có thể chọn cách mà email đến sẽ được xử lý, như sử dụng máy chủ email nội bộ (Local Mail Exchanger) hoặc máy chủ từ xa (Remote Mail Exchanger).
 
-**Các tùy chọn**:
+**Các tùy chọn** (tùy theo mục đích sử dụng của mình):
 - **Automatically Detect Configuration**: Tự động phát hiện cấu hình dựa trên MX Records.
 - **Local Mail Exchanger**: Nhận email trực tiếp trên máy chủ của bạn.
 - **Backup Mail Exchanger**: Giữ email khi máy chủ chính không hoạt động.
