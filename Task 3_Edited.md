@@ -61,5 +61,7 @@ Chọn người nhận: Có thể nhập địa chỉ email của người nhậ
 
 - **Các thư mục** (Folders): cho phép tùy chọn hiển thị các mục như hộp thư, thư nháp, đã gửi, thùng rác, lưu trữ... ở mục **Quản lý hộp thư**.
 
+![image](https://github.com/user-attachments/assets/f7df413d-eef6-4b0e-901c-8c787ebc0f1a)
+
 Những tính năng này giúp webmail trở thành một công cụ mạnh mẽ trong việc quản lý giao tiếp qua email một cách hiệu quả và tiện lợi.
 
