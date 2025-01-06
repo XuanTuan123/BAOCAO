@@ -48,7 +48,22 @@ Một số nhà cung cấp dịch vụ email hosting uy tín như là Vinahost,.
 
 Tuy nhiên, việc triển khai Email Marketing cần tuân thủ quy định như Luật chống Spam CAN-SPAM ở Mỹ, GDPR ở Châu Âu.
 
-**4. Các phương thức xác thực email phổ biến**
+**4. Email server**: là hệ thống hỗ trợ việc gửi/ nhận email và lưu trữ mail.
+
+Có hai loại chính: 
+
+    - Incoming Mail Server (xử lý mail đến, sử dụng giao thức SMTP/POP3).
+    - Outgoing Mail Server (xử lý mail gửi đi, sử dụng giao thức IMAP).
+
+Các chức năng chính: 
+- Cho phép gửi/nhận thông qua giao thức SMTP
+cổng 25 mặc định thường bị chặn do spam, cổng 465/587 kết nối bảo mật SSL/TSL; POP3 (cổng 110 không mã hóa, cổng 995 kết nối bảo mật SSL/TLS).
+- Quản lý hộp thư (hộp thư, thư nháp, đã gửi, thư rác, thùng rác, lưu trữ).
+- Lọc spam.
+- Xác thực email thông qua SPF, DKIM, DMARC.
+- Quản lý nhóm.
+
+**5. Các phương thức xác thực email phổ biến**
 
 **SPF (Sender Policy Framework)**: là phương thức xác thực địa chỉ người dùng.
 
@@ -74,22 +89,7 @@ Cả ba phương thức trên đều lưu trữ ở DNS server.
 - Bảo mật mail.
 - Quản lý dung lượng hộp thư.
 
-**2. Email server**: là hệ thống hỗ trợ việc gửi/ nhận email và lưu trữ mail.
-
-Có hai loại chính: 
-
-    - Incoming Mail Server (xử lý mail đến, sử dụng giao thức SMTP/POP3).
-    - Outgoing Mail Server (xử lý mail gửi đi, sử dụng giao thức IMAP).
-
-Các chức năng chính: 
-- Cho phép gửi/nhận thông qua giao thức SMTP
-cổng 25 mặc định thường bị chặn do spam, cổng 465/587 kết nối bảo mật SSL/TSL; POP3 (cổng 110 không mã hóa, cổng 995 kết nối bảo mật SSL/TLS).
-- Quản lý hộp thư (hộp thư, thư nháp, đã gửi, thư rác, thùng rác, lưu trữ).
-- Lọc spam.
-- Xác thực email thông qua SPF, DKIM, DMARC.
-- Quản lý nhóm.
-
-**3. Email hybrid**: là giải pháp kết hợp Email hosting với các dịch vụ Email Google Workspace, Email Microsoft 365. Cho phép các thao tác thực hiện gửi và nhận cơ bản trên cả hai nền tảng cPanel và Email Google Workspace, Email Microsoft 365.
+**2. Email hybrid**: là giải pháp kết hợp Email hosting với các dịch vụ Email Google Workspace, Email Microsoft 365. Cho phép các thao tác thực hiện gửi và nhận cơ bản trên cả hai nền tảng cPanel và Email Google Workspace, Email Microsoft 365.
 
     - Hoạt động dựa trên mô hình song song 
     - Các email gửi từ môi trường Internet đến máy chủ Email Google Workspace, Email Microsoft 365 sẽ được xử lý trước, nếu như địa chỉ không tồn tại thì email được chuyển tiếp về Email Hosting.
