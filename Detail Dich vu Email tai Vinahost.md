@@ -76,21 +76,6 @@ cổng 25 mặc định thường bị chặn do spam, cổng 465/587 kết nố
     - Chi phí đầu tư ban đầu rất cao.
     - 
     
-**5. Các phương thức xác thực email phổ biến**
-
-**SPF (Sender Policy Framework)**: là phương thức xác thực địa chỉ người dùng.
-
-**DKIM (DomainKeys Identified Mail)**: là phương pháp xác thực mail dựa trên chữ ký số, kiểm tra nội dung email có bị thay đổi không nhờ cặp khóa công khai và riêng tư.
-
-    - Khóa công khai được lưu trên DNS server.
-    - Khóa riêng tư được lưu trên Email Server để tạo chữ ký số.
-
-**DMARC (Domain-based Message Authentication, Reporting, and Conformance)**: là phương pháp giải quyết hạn chế các giao thức xác thực email.
-
-    - Hoạt động dựa trên hai phương thức phổ biến là SPF và DKIM.
-     
-Cả ba phương thức trên đều lưu trữ ở DNS server.
-
 **Giải pháp cho những vấn đề trên**
 -
 **1. Email filter**: là giải pháp chặn các email không mong muốn và có khả năng gây nguy hiểm như thư rác, mạo danh lừa đảo, virus và các dạng phần mềm độc hại khi sử dụng Email Hosting, Email Server. Chức năng chính của Email filter:
