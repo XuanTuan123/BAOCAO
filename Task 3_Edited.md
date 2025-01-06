@@ -30,6 +30,9 @@ Chọn người nhận: Có thể nhập địa chỉ email của người nhậ
 
 - **Đánh dấu sao**: Người dùng có thể đánh dấu các email quan trọng để dễ dàng truy cập sau này.
 
+![image](https://github.com/user-attachments/assets/a9f4342c-0845-4b78-9fbc-b1fd82f6ac3d)
+
+
 **6. Tính Năng Tìm Kiếm**
 
 - **Tìm kiếm nâng cao**: Webmail thường có chức năng tìm kiếm mạnh mẽ, cho phép người dùng tìm kiếm theo từ khóa, người gửi, ngày tháng, và nhiều tiêu chí khác.
