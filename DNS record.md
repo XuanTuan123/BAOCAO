@@ -59,25 +59,8 @@ Trong đó:
    - **'k=rsa'**: là chỉ định một thuật toán mã hóa, cụ thể là thuật toán **RSA**.
    
    - **'p=MIIBIjANBgkqhkiG9w...'**: là khóa công khai được sử dụng xác minh chữ ký DKIM của email gửi đi, trong khi khóa riêng tư được dùng để tạo chữ ký.
-   
-**Vậy thuật toán mã hóa RSA là gì?**
 
-- **RSA (Rivest-Shamir-Adleman)**: là thuật toán mã hóa bất đối xứng nổi tiếng và phổ biến nhất hiện nay, được sử dụng rộng rãi trong các ứng dụng bảo mật như mã hóa email, chứng chỉ SSL/TLS và chữ ký số.
-
-*Thuật toán RSA được phát triển vào năm 1977 bởi Ron Rivest, Adi Shamir, và Leonard Adleman tại Viện Công nghệ Massachusetts (MIT).*
-
-- **Ưu điểm của RSA**: 
-
-    - Bảo mật mạnh mẽ.
-    
-    - Khả năng tương thích cao.
-
-- **Nhược điểm của RSA**: 
-
-    - Hiệu suất chậm.
-    
-    - Yêu cầu nhiều tài nguyên tính toán và bộ nhớ.
-
+ 
 **3. Kiểm tra cấu hình SPF và DKIM**
 
 - Để kiểm tra cấu hình của SPF Record đã đúng (Pass) sử sụng công cụ trực tuyến **MXToolBox SPF Check**:
