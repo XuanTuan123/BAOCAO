@@ -101,7 +101,14 @@ Trong đó:
 
     - Kết quả sau khi nhấn **View result** sẽ hiển thị như sau:
 
-   
+  Ví dụ:
+
+   ![image](https://github.com/user-attachments/assets/38469c75-9dd1-4b5c-80e0-c8fa2e1303b0)
+
+   ![image](https://github.com/user-attachments/assets/1ca9e025-ef65-49eb-9e3b-46b62427124a)
+
+   ![image](https://github.com/user-attachments/assets/f72f2d31-4946-4c61-9697-533c6b0af80e)
+
 
     
     
