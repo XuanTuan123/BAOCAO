@@ -90,7 +90,8 @@ Ví dụ về MTA phổ biến:
     
  - **Sơ đồ đường đi**:
 
-   ![Qua trinh MUA MTA MDA drawio](https://github.com/user-attachments/assets/fd548253-f25a-4fb6-9b86-b9b61147f51c)
+   ![Qua trinh MUA MTA MDA drawio (1)](https://github.com/user-attachments/assets/91b2949c-d390-4b4f-b0d2-36cdd3e5d5da)
+
 
  
  
