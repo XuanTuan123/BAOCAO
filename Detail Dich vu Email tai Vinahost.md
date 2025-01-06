@@ -5,7 +5,7 @@
 Nhược điểm: 
 
     - Phụ thuộc vào nhà cung cấp dịch vụ (nhà cung cấp dịch vụ chỉ cung cấp user đăng nhập mail).
-    - Nếu 1 người sử dụng chung nguồn IP đó bị đánh dấu spam, thì sẽ ảnh hưởng đến uy tín và khả năng gửi email. Tuy nhiên, điều này có thể giải quyết bằng việc sử dụng thêm dịch vụ Email Relay để bị đưa vào danh sách spam.
+    - Nếu 1 người sử dụng chung nguồn IP đó bị đánh dấu spam, thì sẽ ảnh hưởng đến uy tín và khả năng gửi email.
     
  Ưu điểm: 
  
@@ -63,6 +63,19 @@ cổng 25 mặc định thường bị chặn do spam, cổng 465/587 kết nố
 - Xác thực email thông qua SPF, DKIM, DMARC.
 - Quản lý nhóm.
 
+ Ưu điểm: 
+ 
+    - Tính linh hoạt cao, dễ dàng tùy chỉnh cấu hình.
+    - Không giới hạn só lượng người dùng.
+    - Chi phí vận hành thấp.
+
+ Nhược điểm: 
+ 
+    - Do tự cấu hình và quản lý, phải có kiến thức về mặt kỹ thuật cao.
+    - Cần phần cứng và phần mềm để vận hành và bảo trì.
+    - Chi phí đầu tư ban đầu rất cao.
+    - 
+    
 **5. Các phương thức xác thực email phổ biến**
 
 **SPF (Sender Policy Framework)**: là phương thức xác thực địa chỉ người dùng.
