@@ -101,7 +101,7 @@ Trong đó:
 
     - Kết quả sau khi nhấn **View result** sẽ hiển thị như sau:
 
-  Ví dụ:
+  Ví dụ: (cần thay thế email với tên miền của mình user@tuanhhxtts.freehost.vn)
 
    ![image](https://github.com/user-attachments/assets/38469c75-9dd1-4b5c-80e0-c8fa2e1303b0)
 
