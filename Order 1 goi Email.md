@@ -6,7 +6,7 @@
 
 **Chức năng**:
 
-- **Tạo tài khoản email**: Bạn có thể tạo nhiều tài khoản email với tên miền của mình (ví dụ: example@domain.com).
+- **Tạo tài khoản email**: Bạn có thể tạo nhiều tài khoản email với tên miền của mình (ví dụ: user1@tuanhhx.io.vn).
 Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email để bảo mật.
 
 - **Quản lý dung lượng lưu trữ**: Thiết lập hạn mức dung lượng cho từng tài khoản, giúp quản lý tài nguyên hiệu quả.
