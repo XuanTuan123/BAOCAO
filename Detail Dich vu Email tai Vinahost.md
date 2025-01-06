@@ -75,7 +75,7 @@ cổng 25 mặc định thường bị chặn do spam, cổng 465/587 kết nố
     - Cần phần cứng và phần mềm để vận hành và bảo trì.
     - Chi phí đầu tư ban đầu rất cao.
 
-<So sánh 4 loại email này>
+<Lập bảng so sánh 4 loại email này về mục đích sử dụng>
     
 **Giải pháp cho những vấn đề trên**
 -
