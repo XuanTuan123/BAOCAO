@@ -101,7 +101,7 @@ Trong đó:
 
     - Kết quả sau khi nhấn **View result** sẽ hiển thị như sau:
 
-    ![image](https://github.com/user-attachments/assets/3ab5f2bd-25df-4043-be31-2a1d4426810f)
+   
 
     
     
