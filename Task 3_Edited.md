@@ -8,6 +8,8 @@
 - **Đính kèm tệp**: Người dùng có thể dễ dàng đính kèm tài liệu, hình ảnh, hoặc video vào email.
 Chọn người nhận: Có thể nhập địa chỉ email của người nhận hoặc chọn từ danh bạ.
 
+![image](https://github.com/user-attachments/assets/a7a22a38-4e4f-4ea3-908a-dfed4227e273)
+
 **2. Hộp Thư Đến (Inbox)**
 
 - **Quản lý email nhận được**: Tất cả các email đến sẽ được lưu trữ tại đây, cho phép người dùng xem và quản lý chúng.
