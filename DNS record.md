@@ -99,16 +99,24 @@ Trong đó:
     
     ![image](https://github.com/user-attachments/assets/ef05c031-d834-4539-944f-b28e92bd1186)
 
-    - Kết quả sau khi nhấn **View result** sẽ hiển thị như sau:
+    - Kết quả sau khi gửi và nhấn **View result** sẽ hiển thị như sau:
 
   Ví dụ: (cần thay thế email với tên miền của mình user@tuanhhxtts.freehost.vn)
 
-   ![image](https://github.com/user-attachments/assets/38469c75-9dd1-4b5c-80e0-c8fa2e1303b0)
+    ![image](https://github.com/user-attachments/assets/38469c75-9dd1-4b5c-80e0-c8fa2e1303b0)
 
    ![image](https://github.com/user-attachments/assets/1ca9e025-ef65-49eb-9e3b-46b62427124a)
 
    ![image](https://github.com/user-attachments/assets/f72f2d31-4946-4c61-9697-533c6b0af80e)
+   
+ *Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Pass*
 
+ Ngoài ra, nếu một trong hai SPF và DKIM không Pass, email vẫn có thể gửi đi nhưng sẽ bị đánh dấu là nghi ngờ hoặc spam.
 
-    
-    
+   ![image](https://github.com/user-attachments/assets/231b4bbb-4175-4c40-aa5a-8ea0b23f3567)
+
+   ![image](https://github.com/user-attachments/assets/b2215295-ff77-436c-b9f2-11313f3d64bf)
+
+   ![image](https://github.com/user-attachments/assets/6cc3dfd4-cf40-457a-9fea-c2416ed7bfb5)
+
+*Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Did not Pass*
