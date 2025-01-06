@@ -3,7 +3,7 @@
 -
 **1. Soạn thảo Email**
 
-- **Giao diện soạn thảo**: Webmail thường cung cấp một trình soạn thảo dễ sử dụng với các công cụ định dạng như in đậm, in nghiêng, gạch chân, và chèn liên kết.
+- **Giao diện soạn thảo**: Webmail thường cung cấp một trình soạn thảo dễ sử dụng với các chức năng như lưu, báo nhận, thông báo trạng thái gửi, độ ưu tiên và chèn liên kết.
 
 - **Đính kèm tệp**: Người dùng có thể dễ dàng đính kèm tài liệu, hình ảnh, hoặc video vào email.
 Chọn người nhận: Có thể nhập địa chỉ email của người nhận hoặc chọn từ danh bạ.
