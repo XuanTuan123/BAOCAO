@@ -27,7 +27,7 @@
 
        - Ví dụ: IN  NS  ns1.freehost.vn.
       
-**Tại sao lại cần cấu hình SPF và DKIM trong việc bảo vệ email**
+**Cấu hình SPF và DKIM trong việc bảo vệ email**
 -
 **1. SPF (Sender Policy Framework)**: là phương thức sử dụng các DNS Record xác định địa chỉ IP để xác thực danh tính của người gửi email.
 
