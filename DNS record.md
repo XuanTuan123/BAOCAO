@@ -84,11 +84,14 @@ Trong đó:
 
     - Nhập tên miền cần kiểm tra vào ô **Domain Name** và nhấn **SPF Record Lookup**:
     
-    [Hình]
-    
+    ![image](https://github.com/user-attachments/assets/6cd888a2-b62c-4a78-9ae3-76158f6580cb)
+
     - Kết quả hiển thị như sau:
     
-    [2 Hình]
+    ![image](https://github.com/user-attachments/assets/be0e19da-384f-4abd-8079-7e351072ab24)
+
+    ![image](https://github.com/user-attachments/assets/486bf741-7e1e-4f81-85d9-d2db180ae5ad)
+
     
 - Tiếp theo để kiểm tra cấu hình của DKIM Record đã đúng (Pass) sử sụng công cụ trực tuyến **MXToolBox DKIM Check**:
 
