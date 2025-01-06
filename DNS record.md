@@ -93,14 +93,15 @@ Trong đó:
     ![image](https://github.com/user-attachments/assets/486bf741-7e1e-4f81-85d9-d2db180ae5ad)
 
     
-- Tiếp theo để kiểm tra cấu hình của DKIM Record đã đúng (Pass) sử sụng công cụ trực tuyến **MXToolBox DKIM Check**:
+- Tiếp theo để kiểm tra cấu hình của DKIM Record đã đúng (Pass) sử sụng công cụ trực tuyến **dkimvalidator.com**:
 
-    - Nhập tên miền cần kiểm tra vào ô **Domain Name**, **Selector** và nhấn **DKIM Lookup**:
+    - Sử dụng email cần kiểm tra để gửi đến email như hình:
     
-    [Hình]
-    
-    - Kết quả hiển thị như sau:
-    
-    [2 Hình]
+    ![image](https://github.com/user-attachments/assets/ef05c031-d834-4539-944f-b28e92bd1186)
+
+    - Kết quả sau khi nhấn **View result** sẽ hiển thị như sau:
+
+    ![image](https://github.com/user-attachments/assets/3ab5f2bd-25df-4043-be31-2a1d4426810f)
+
     
     
