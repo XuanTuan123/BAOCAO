@@ -31,12 +31,12 @@ Một số nhà cung cấp dịch vụ email hosting uy tín như là Vinahost,.
     - Giúp quản lý lưu lượng phân phối email hiệu quả, tránh việc máy chủ nội bộ bị quá tải.
     - Đảm bảo các email từ máy chủ gửi đi đều tuân thủ các tiêu chuẩn xác thực như SPF, DKIM, DMARC, giúp email không bị từ chối bởi người nhận.
 
-**3. Email Marketing**: là dịch vụ phù hợp cho doanh nghiệp cần triển khai chiến dịch quảng bá, bán hàng và thiếp thị sản phẩm với số lượng lớn đến tệp khách hàng mục tiêu.
+**3. Email Marketing**: là dịch vụ phù hợp cho doanh nghiệp cần triển khai chiến dịch quảng bá, bán hàng và thiếp thị sản phẩm với số lượng lớn cùng một nội dung đến tệp khách hàng mục tiêu.
 
  Nhược điểm:
  
     - Email marketing dễ bị đánh dấu spam.
-    - Đối mặt với sự thờ ơ của khách hàng đới với email quảng cáo.
+    - Đối mặt với sự thờ ơ của khách hàng đối với email quảng cáo.
     - Phụ thuộc vào khả năng kết nối Internet của khách hàng.
     
  Ưu điểm:
@@ -74,7 +74,8 @@ cổng 25 mặc định thường bị chặn do spam, cổng 465/587 kết nố
     - Do tự cấu hình và quản lý, phải có kiến thức về mặt kỹ thuật cao.
     - Cần phần cứng và phần mềm để vận hành và bảo trì.
     - Chi phí đầu tư ban đầu rất cao.
-    - 
+
+<So sánh 4 loại email này>
     
 **Giải pháp cho những vấn đề trên**
 -
