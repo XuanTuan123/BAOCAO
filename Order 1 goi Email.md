@@ -81,7 +81,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 - **Backup Mail Exchanger**: Giữ email khi máy chủ chính không hoạt động.
 - **Remote Mail Exchanger**: Gửi tất cả email đến máy chủ khác.
 
-![image](https://github.com/user-attachments/assets/fcd6c776-9979-4928-a8af-451142386062)
+![image](https://github.com/user-attachments/assets/7b0567a9-229b-4191-bf29-da0c00a6f282)
 
 **8. Mailing Lists**
 
