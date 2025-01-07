@@ -202,12 +202,11 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Tiếp đó, bấm vào nút **Gửi**, để kiểm tra thư đã gửi đi nhấn chọn **Đã gửi** như hình:
 
-![image](https://github.com/user-attachments/assets/b8d72f4c-1e18-41bf-8adf-252d82a0072c)
+![image](https://github.com/user-attachments/assets/888b7091-7168-41ca-8006-e0df067da9f6)
 
-![Screenshot 2025-01-01 192049](https://github.com/user-attachments/assets/25002ee1-a581-4c2d-9100-b41e072aa33b)
+![image](https://github.com/user-attachments/assets/226782ec-e31e-4fae-bcc6-9c9b8290bea1)
 
-
-- Đăng nhập vào **user2@tuanhhx.io.vn** để kiểm tra email đã được gửi từ **user1@tuanhhx.io.vn**
+- Đăng nhập vào **user2@tuanhhxtts.freehost.vn** để kiểm tra email đã được gửi từ **user1@tuanhhxtts.freehost.vn**
 
 ![Screenshot 2025-01-01 192145](https://github.com/user-attachments/assets/1090bd6c-de53-482b-a1b5-cf1333d3e516)
 
