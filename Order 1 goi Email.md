@@ -55,7 +55,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Chọn **Track Delivery**, bạn sẽ thấy danh sách các email đã gửi, cùng với trạng thái của chúng (đã gửi, bị lỗi, v.v.).
 
-![image](https://github.com/user-attachments/assets/6317f4a3-5db2-4734-a289-50930075d0de)
+![image](https://github.com/user-attachments/assets/228750e6-05a4-4e06-8398-c82b122876b0)
 
 **5. Global Filters**
 
