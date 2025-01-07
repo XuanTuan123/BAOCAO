@@ -163,7 +163,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Đăng nhập thành công, dashboard của cPanel hiện ra:
 
-![Screenshot 2025-01-01 184857](https://github.com/user-attachments/assets/6276e37c-fe3f-405b-a365-2198868be10b)
+![image](https://github.com/user-attachments/assets/7126395f-c826-4d5e-ae6b-26df35c0e7f4)
 
 
 **Bước 2**:
