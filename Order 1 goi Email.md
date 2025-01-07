@@ -29,7 +29,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 ![image](https://github.com/user-attachments/assets/3b2340eb-af70-4d21-bb12-78d458978b7e)
 
-![image](https://github.com/user-attachments/assets/4fdac71e-c31d-4d5e-bbaf-e53d1a69a9ac)
+![image](https://github.com/user-attachments/assets/c4be8104-913e-4b7f-9d19-74786e860233)
 
 **3. Autoresponders**
 
