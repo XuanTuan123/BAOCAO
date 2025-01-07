@@ -221,7 +221,7 @@ Cấu hình Mail Client trên OutLook như sau:
 
 ![Screenshot 2025-01-01 192650](https://github.com/user-attachments/assets/e13358dd-22b8-4299-9808-5ec086b2b82e)
 
-- Giao diện đăng nhập ban đầu. Nhập thông tin tài khoản email **user1@tuanhhx.io.vn**, nhấn **Connect**.
+- Giao diện đăng nhập ban đầu. Nhập thông tin tài khoản email **user1@tuanhhxtts.freehost.vn**, nhấn **Connect**.
 
 ![Screenshot 2025-01-01 192749](https://github.com/user-attachments/assets/2e2b5876-7e85-4513-b907-2c0cb90dd3c1)
 
@@ -230,7 +230,7 @@ Cấu hình Mail Client trên OutLook như sau:
 ![Screenshot 2025-01-01 193002](https://github.com/user-attachments/assets/50afdcb4-a298-42de-847b-acbc7e0c80ca)
 
 
-- Nhập thông tin như hình bên dưới kèm theo **Password** của **user1@tuanhhx.io.vn** và bấm **Connect**.
+- Nhập thông tin như hình bên dưới kèm theo **Password** của **user1@tuanhhxtts.freehost.vn** và bấm **Connect**.
 
 ![Screenshot 2025-01-01 193251](https://github.com/user-attachments/assets/16d2c154-4773-4032-b6ee-ca57115d8f01)
 
