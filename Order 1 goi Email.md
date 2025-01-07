@@ -208,9 +208,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Đăng nhập vào **user2@tuanhhxtts.freehost.vn** để kiểm tra email đã được gửi từ **user1@tuanhhxtts.freehost.vn**
 
-![Screenshot 2025-01-01 192145](https://github.com/user-attachments/assets/1090bd6c-de53-482b-a1b5-cf1333d3e516)
-
-![Screenshot 2025-01-01 192323](https://github.com/user-attachments/assets/13d2a335-5a82-4f81-aba6-c9568c3ffc95)
+![image](https://github.com/user-attachments/assets/b6081ee1-8b4e-4035-8885-924a3c8d85ca)
 
 
 **Bước 6**:
