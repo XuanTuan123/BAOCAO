@@ -225,20 +225,9 @@ Cấu hình Mail Client trên OutLook như sau:
 
 ![image](https://github.com/user-attachments/assets/56186ec3-b883-4b49-aa4d-6c4614be3db4)
 
-- Tại **Choose account type** chọn **IMAP** để tài khoản có thể gửi/nhận và lưu trữ email.
-
-![Screenshot 2025-01-01 193002](https://github.com/user-attachments/assets/50afdcb4-a298-42de-847b-acbc7e0c80ca)
-
-
-- Nhập thông tin như hình bên dưới kèm theo **Password** của **user1@tuanhhxtts.freehost.vn** và bấm **Connect**.
-
-![Screenshot 2025-01-01 193251](https://github.com/user-attachments/assets/16d2c154-4773-4032-b6ee-ca57115d8f01)
-
-![Screenshot 2025-01-01 193422](https://github.com/user-attachments/assets/e4036536-116a-4afc-8775-9ec5b8cc31ba)
-
 - Cuối cùng, hoàn tất đăng nhập.
 
-![Screenshot 2025-01-01 193748](https://github.com/user-attachments/assets/b89935f3-c3c3-4564-a6a9-91264fb0c0e3)
+![image](https://github.com/user-attachments/assets/24f518ae-ff9d-4b8a-ac94-b793cbad78bd)
 
     Việc đăng nhập user2@tuanhhx.io.vn cũng làm tương tự như vậy.
     
