@@ -65,19 +65,16 @@ Trong đó:
  
 **3. Kiểm tra cấu hình SPF và DKIM**
 
-- Để kiểm tra cấu hình của SPF Record đã đúng (Pass) sử sụng công cụ trực tuyến **MXToolBox SPF Check**:
+- Để kiểm tra cấu hình của SPF Record đã đúng (Pass) sử sụng công cụ trực tuyến **dkimvalidator.com**:
 
-    - Nhập tên miền cần kiểm tra vào ô **Domain Name** và nhấn **SPF Record Lookup**:
+    - Sử dụng email cần kiểm tra để gửi đến email như hình:
     
-    ![image](https://github.com/user-attachments/assets/6cd888a2-b62c-4a78-9ae3-76158f6580cb)
+    ![image](https://github.com/user-attachments/assets/acb4f038-e14d-43e1-a41f-190185b65d2f)
 
     - Kết quả hiển thị như sau:
     
-    ![image](https://github.com/user-attachments/assets/be0e19da-384f-4abd-8079-7e351072ab24)
+    ![image](https://github.com/user-attachments/assets/2efa6a3d-e49d-495a-934f-c7e6d98c90cd)
 
-    ![image](https://github.com/user-attachments/assets/486bf741-7e1e-4f81-85d9-d2db180ae5ad)
-
-    
 - Tiếp theo để kiểm tra cấu hình của DKIM Record đã đúng (Pass) sử sụng công cụ trực tuyến **dkimvalidator.com**:
 
     - Sử dụng email cần kiểm tra để gửi đến email như hình:
