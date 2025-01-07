@@ -41,7 +41,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Vào mục **Autoresponders**, nhấn vào **Add Autoresponder**, điền thông tin như địa chỉ email, tiêu đề và nội dung thông điệp tự động.
 
-![image](https://github.com/user-attachments/assets/48a82992-c180-482c-982a-30a395fe3585)
+![image](https://github.com/user-attachments/assets/61df693c-91ae-44c6-ae6e-ae617a627e43)
 
 ![image](https://github.com/user-attachments/assets/0d0e3910-5170-41d5-b278-aa45445d262b)
 
