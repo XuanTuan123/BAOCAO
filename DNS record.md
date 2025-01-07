@@ -67,7 +67,7 @@ Trong đó:
 
 - Để kiểm tra cấu hình của SPF Record đã đúng (Pass) sử sụng công cụ trực tuyến **dkimvalidator.com**:
 
-    - Sử dụng email cần kiểm tra để gửi đến email như hình:
+    - Sử dụng email cần kiểm tra (user1@tuanhhxtts.freehost.vn) để gửi đến email như hình:
     
     ![image](https://github.com/user-attachments/assets/acb4f038-e14d-43e1-a41f-190185b65d2f)
 
@@ -77,28 +77,15 @@ Trong đó:
 
 - Tiếp theo để kiểm tra cấu hình của DKIM Record đã đúng (Pass) sử sụng công cụ trực tuyến **dkimvalidator.com**:
 
-    - Sử dụng email cần kiểm tra để gửi đến email như hình:
+    - Sử dụng email cần kiểm tra (user1@tuanhhxtts.freehost.vn) để gửi đến email như hình:
     
     ![image](https://github.com/user-attachments/assets/ef05c031-d834-4539-944f-b28e92bd1186)
 
     - Kết quả sau khi gửi và nhấn **View result** sẽ hiển thị như sau:
 
-  Ví dụ: (cần thay thế email với tên miền của mình user@tuanhhxtts.freehost.vn)
+    ![image](https://github.com/user-attachments/assets/2cef4c1c-4ed3-4de4-bcd8-734ea88269a8)
 
-    ![image](https://github.com/user-attachments/assets/38469c75-9dd1-4b5c-80e0-c8fa2e1303b0)
-
-   ![image](https://github.com/user-attachments/assets/1ca9e025-ef65-49eb-9e3b-46b62427124a)
-
-   ![image](https://github.com/user-attachments/assets/f72f2d31-4946-4c61-9697-533c6b0af80e)
-   
+    ![image](https://github.com/user-attachments/assets/925f7c69-d7b7-46b9-b134-8d39e6f7987c)
+ 
  *Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Pass*
 
- Ngoài ra, nếu một trong hai SPF và DKIM không Pass, email vẫn có thể gửi đi nhưng sẽ bị đánh dấu là nghi ngờ hoặc spam.
-
-   ![image](https://github.com/user-attachments/assets/231b4bbb-4175-4c40-aa5a-8ea0b23f3567)
-
-   ![image](https://github.com/user-attachments/assets/b2215295-ff77-436c-b9f2-11313f3d64bf)
-
-   ![image](https://github.com/user-attachments/assets/6cc3dfd4-cf40-457a-9fea-c2416ed7bfb5)
-
-*Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Did not Pass*
