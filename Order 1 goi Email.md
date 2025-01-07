@@ -15,8 +15,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Nhấn vào **Email Accounts**, sau đó chọn **Create** để tạo tài khoản mới. Điền thông tin cần thiết như tên người dùng, mật khẩu và dung lượng lưu trữ.
 
-![image](https://github.com/user-attachments/assets/516a409f-6882-4a85-8d0e-0c654cff9bbb)
-
+![image](https://github.com/user-attachments/assets/0cc8d5a6-392c-47d2-9e96-d20fee70dd9a)
 
 **2. Forwarders**
 
