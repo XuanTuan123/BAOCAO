@@ -134,7 +134,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Vào mục **BoxTrapper**, thiết lập các tùy chọn xác thực và quản lý danh sách người gửi.
 
-![image](https://github.com/user-attachments/assets/d14eede4-80e6-4ec1-a508-03470a58d3ea)
+![image](https://github.com/user-attachments/assets/eb14b66a-d64f-4660-9eb4-bbc0186e8a36)
 
 **12. Email Disk Usage**
 
