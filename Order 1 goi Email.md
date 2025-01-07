@@ -177,7 +177,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Nhấn vào nút **Create** màu xanh ở góc phải màn hình.
 
-![Screenshot 2025-01-01 185602](https://github.com/user-attachments/assets/1098d3d1-cd12-44b7-af5b-707c0f383c17)
+![image](https://github.com/user-attachments/assets/264db2f7-6cb9-4476-b86c-eea2af57c98a)
 
 
 **Bước 4**:
