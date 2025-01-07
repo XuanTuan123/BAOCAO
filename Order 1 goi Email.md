@@ -43,7 +43,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 ![image](https://github.com/user-attachments/assets/61df693c-91ae-44c6-ae6e-ae617a627e43)
 
-![image](https://github.com/user-attachments/assets/0d0e3910-5170-41d5-b278-aa45445d262b)
+![image](https://github.com/user-attachments/assets/fef67446-9a5e-41c6-8e26-3c1a5b168f8e)
 
 **4. Track Delivery**
 
