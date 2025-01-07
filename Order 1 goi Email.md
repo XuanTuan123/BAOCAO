@@ -195,10 +195,9 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
     
 **Bước 5**:
 
-- Nhấn vào biểu tượng có hình cây bút đầu tiên góc trái để soạn email với email nhận là **user2@tuanhhx.io.vn** với nội dung như hình:
+- Nhấn vào biểu tượng có hình cây bút đầu tiên góc trái để soạn email với email nhận là **user2@tuanhhxtts.freehost.vn** với nội dung như hình:
 
-![Screenshot 2025-01-01 191450](https://github.com/user-attachments/assets/27f7a188-6f83-4001-a99d-569aacb63430)
-
+![image](https://github.com/user-attachments/assets/b8d72f4c-1e18-41bf-8adf-252d82a0072c)
 
 - Tiếp đó, bấm vào nút **Gửi**, để kiểm tra thư đã gửi đi nhấn chọn **Đã gửi** như hình:
 
