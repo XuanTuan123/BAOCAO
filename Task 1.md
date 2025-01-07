@@ -34,7 +34,7 @@ Tên **Domain** được ví như tên của công ty, và địa chỉ IP là �
 
 **SSL Certificate**: giúp mã hóa thông tin một cách hiệu quả, chống giả mạo và xác thực danh tính của người gửi.
 
-**WAF**: 
+**WAF**: là từ viết tắt **"Web Application Firewall"**, có nghĩa là tường lửa ứng dụng Web. Hoạt động bằng cách giám sát lưu lượng truy cập vào ứng dụng web, bảo vệ ứng dụng web khỏi các cuộc tấn công mạng.
 
 **EMAIL**
 -
