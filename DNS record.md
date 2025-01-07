@@ -89,3 +89,7 @@ Trong đó:
  
  *Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Pass*
 
+Thực hiện thử gửi email từ user1@tuanhhxtts.freehost.vn đến 1 email cá nhân, để xem trạng thái SPF và DKIM:
+
+![image](https://github.com/user-attachments/assets/5ef60310-c250-42d0-838a-526763ff3f09)
+
