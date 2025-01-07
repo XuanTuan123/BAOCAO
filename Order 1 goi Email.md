@@ -223,7 +223,7 @@ Cấu hình Mail Client trên OutLook như sau:
 
 - Giao diện đăng nhập ban đầu. Nhập thông tin tài khoản email **user1@tuanhhxtts.freehost.vn**, nhấn **Connect**.
 
-![Screenshot 2025-01-01 192749](https://github.com/user-attachments/assets/2e2b5876-7e85-4513-b907-2c0cb90dd3c1)
+![image](https://github.com/user-attachments/assets/56186ec3-b883-4b49-aa4d-6c4614be3db4)
 
 - Tại **Choose account type** chọn **IMAP** để tài khoản có thể gửi/nhận và lưu trữ email.
 
