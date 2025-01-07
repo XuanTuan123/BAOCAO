@@ -48,7 +48,7 @@ Một số nhà cung cấp dịch vụ email hosting uy tín như là Vinahost,.
 
 Tuy nhiên, việc triển khai Email Marketing cần tuân thủ quy định như Luật chống Spam CAN-SPAM ở Mỹ, GDPR ở Châu Âu.
 
-**4. Email server**: là phần mềm hoắc phần cứng mà doanh nghiệp tự quản lý, hỗ trợ việc gửi/ nhận email và lưu trữ mail. Với Email server bạn có thể tự cấu hình và duy trì toàn bộ hạ tầng kỹ thuật.
+**4. Email server**: là phần mềm hoặc phần cứng mà doanh nghiệp tự quản lý, hỗ trợ việc gửi/ nhận email và lưu trữ mail. Với Email server bạn có thể tự cấu hình và duy trì toàn bộ hạ tầng kỹ thuật.
 
 Có hai loại chính: 
 
