@@ -34,6 +34,8 @@ Tên **Domain** được ví như tên của công ty, và địa chỉ IP là �
 
 **SSL Certificate**: giúp mã hóa thông tin một cách hiệu quả, chống giả mạo và xác thực danh tính của người gửi.
 
+**WAF**: 
+
 **EMAIL**
 -
 Với nhiều các dịch vụ email hosting, email server, email relay, email marketing và giải pháp dành cho doanh nghiệp như email filter, email hybrid. 
