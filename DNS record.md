@@ -93,3 +93,6 @@ Thực hiện thử gửi email từ user1@tuanhhxtts.freehost.vn đến 1 email
 
 ![image](https://github.com/user-attachments/assets/5ef60310-c250-42d0-838a-526763ff3f09)
 
+![image](https://github.com/user-attachments/assets/cb0699b6-aa1b-4a5e-8181-1bfeeb00f7d2)
+
+
