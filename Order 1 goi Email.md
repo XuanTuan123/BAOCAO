@@ -229,13 +229,12 @@ Cấu hình Mail Client trên OutLook như sau:
 
 ![image](https://github.com/user-attachments/assets/24f518ae-ff9d-4b8a-ac94-b793cbad78bd)
 
-    Việc đăng nhập user2@tuanhhx.io.vn cũng làm tương tự như vậy.
+    Việc đăng nhập user2@tuanhhxtts.freehost.vn cũng làm tương tự như vậy.
     
 - Kết quả gửi nhận ở **bước 5**, chúng ta sẽ thấy khi đăng nhập trên OutLook như hình:
 
-![Screenshot 2025-01-01 194040](https://github.com/user-attachments/assets/7a3246de-dec2-44e5-addb-7b44d1b0752b)
+![image](https://github.com/user-attachments/assets/b3506bda-82df-4748-bb8b-0cc0ee3f6827)
 
-![Screenshot 2025-01-01 194109](https://github.com/user-attachments/assets/db4a0076-500c-4292-b0a0-6dea781cd4e9)
 
 
 
