@@ -26,7 +26,9 @@
 - **NS Record**: là một loại record giúp xác định thông tin của một tên miền cụ thể được khai báo và quản lý trên máy chủ nào.
 
        - Ví dụ: IN  NS  ns1.freehost.vn.
-      
+
+![image](https://github.com/user-attachments/assets/af85b517-634e-4e19-b1b9-cc42698e6ab6)
+
 **Cấu hình SPF và DKIM trong việc bảo vệ email**
 -
 **1. SPF (Sender Policy Framework)**: là phương thức sử dụng các DNS Record xác định địa chỉ IP để xác thực danh tính của người gửi email.
