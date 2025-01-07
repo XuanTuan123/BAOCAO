@@ -184,8 +184,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 
 - Tại giao diện này, chúng ta điền vào ô **Username** và **Password** rồi nhấn chọn **Create**. Sau khi tạo tài khoản xong, sẽ hiển thị các tài khoản như sau:
 
-![Screenshot 2025-01-01 185911](https://github.com/user-attachments/assets/6e5d9155-53d9-49d5-a468-6bee081c5624)
-
+![image](https://github.com/user-attachments/assets/3a3c3076-211c-48cb-ad11-0d63c4bf784e)
 
 - Lưu ý: Nếu muốn giới hạn dung lượng sử dụng email, chúng ta có thể chọn **Edit Settings** tại mục **Optional Settings**:
 
