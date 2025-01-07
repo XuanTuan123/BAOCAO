@@ -104,6 +104,7 @@ Quản lý mật khẩu: Thay đổi mật khẩu cho các tài khoản email đ
 **Cách sử dụng**:
 - Kiểm tra và cấu hình các bản ghi DNS liên quan đến SPF, DKIM và DMARC trong phần DNS **Zone Editor** của cPanel để tối ưu hóa khả năng gửi email.
 
+![image](https://github.com/user-attachments/assets/77343a87-60c6-4847-b842-52a85138116a)
 
 **10. Spam Filters**
 
