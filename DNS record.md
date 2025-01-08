@@ -29,7 +29,7 @@
 
 ![image](https://github.com/user-attachments/assets/af85b517-634e-4e19-b1b9-cc42698e6ab6)
 
-**Cấu hình SPF và DKIM trong việc bảo vệ email**
+**Cấu hình SPF và DKIM tăng độ uy tín cho email**
 -
 **1. SPF (Sender Policy Framework)**: là phương thức sử dụng các DNS Record xác định địa chỉ IP để xác thực danh tính của người gửi email.
 
