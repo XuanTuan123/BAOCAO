@@ -24,7 +24,7 @@
 
 *Mô hình IaaS là gì?*
 
-- IaaS là từ viết tắt của Infrastructure as a Service.
+- IaaS là từ viết tắt của Infrastructure as a Service (tạm dịch là Cơ sở hạ tầng như một dịch vụ).
 
 - Là một mô hình dịch vụ điện toán đám mây, cung cấp cơ sở hạ tầng công nghệ thông tin qua Internet. Người dùng có thể thuê và quản lý các tài nguyên như máy chủ, lưu trữ, và mạng mà không cần đầu tư vào phần cứng vật lý.
 
