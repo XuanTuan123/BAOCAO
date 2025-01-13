@@ -89,11 +89,7 @@
 - Chi phí bản quyền cao.
 
 *Giao diện Plesk*
-- Bảng điều khiển web, cho phép các quản trị viên quản lý các dịch vụ website, email,...
 
-- Không cần phải biết nhiều về dòng lệnh hay các kỹ thuật phức tạp khác.
-
-- Cách sử dụng: truy cập vào https://yourdomain:8443 (ví dụ, https://tuanhhxtts.freehost.vn:8443) 
 
 *Giao diện MS IIS*
 
