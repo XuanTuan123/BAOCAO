@@ -8,11 +8,11 @@
 
 **VPS là gì?** 
 -
-- VPS (Máy chủ riêng ảo) là viết tắt của Virtual Private Server, được tạo ra bằng công nghệ ảo hóa để chia một máy chủ vật lý thành nhiều máy chủ ảo riêng biệt. 
+- **VPS** (Máy chủ riêng ảo) là viết tắt của Virtual Private Server, được tạo ra bằng công nghệ ảo hóa để chia một máy chủ vật lý thành nhiều máy chủ ảo riêng biệt. 
 
-- Mỗi VPS hoạt động như một máy chủ độc lập với phần cứng và tài nguyên riêng nhưng vẫn chia sẻ từ máy chủ vật lý gốc. 
+- Mỗi **VPS** hoạt động như một máy chủ độc lập với phần cứng và tài nguyên riêng nhưng vẫn chia sẻ từ máy chủ vật lý gốc. 
 
-- VPS thường được sử dụng cho các ứng dụng web nhỏ đến trung bình, cung cấp mức độ kiểm soát và tùy chỉnh cao hơn so với các giải pháp lưu trữ chia sẻ.
+- **VPS** thường được sử dụng cho các ứng dụng web nhỏ đến trung bình, cung cấp mức độ kiểm soát và tùy chỉnh cao hơn so với các giải pháp lưu trữ chia sẻ.
 
 **Cloud Server là gì?**
 -
