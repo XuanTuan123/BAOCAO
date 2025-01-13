@@ -28,6 +28,8 @@
 
 - Là một mô hình dịch vụ điện toán đám mây, cung cấp cơ sở hạ tầng công nghệ thông tin qua Internet. Người dùng có thể thuê và quản lý các tài nguyên như máy chủ, lưu trữ, và mạng mà không cần đầu tư vào phần cứng vật lý.
 
+- Trong đó, nhà cung cấp dịch vụ chịu trách nhiệm baot trì và quản lý phần cứng, còn người sử dụng quản lý hệ điều hành, ứng dụng và dữ liệu của mình.
+
 **So sánh giữa 3 loại Server**:
 
 |                  | Dedicated Server                                          | VPS                                                                         | Cloud Server                                                       |
