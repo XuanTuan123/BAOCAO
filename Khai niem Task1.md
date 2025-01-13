@@ -16,11 +16,17 @@
 
 **Cloud Server là gì?**
 -
-- **Cloud Server** (Máy chủ đám mây) là một hệ thống máy chủ ảo hóa dựa trên công nghệ đám mây, cho phép truy cập tài nguyên tính toán từ nhiều máy chủ vật lý khác nhau.
+- **Cloud Server** (Máy chủ đám mây) là một hệ thống máy chủ ảo hóa dựa trên công nghệ đám mây theo mô hình IaaS, cho phép truy cập tài nguyên tính toán từ nhiều máy chủ vật lý khác nhau.
 
 - **Cloud Server** cung cấp khả năng mở rộng linh hoạt, cho phép người dùng tăng hoặc giảm tài nguyên theo nhu cầu mà không gặp phải gián đoạn dịch vụ. 
 
 - Đây là giải pháp lý tưởng cho các ứng dụng yêu cầu tính sẵn sàng cao và khả năng phục hồi tốt.
+
+*Mô hình IaaS là gì?*
+
+- IaaS là từ viết tắt của Infrastructure as a Service.
+
+- Là một mô hình dịch vụ điện toán đám mây, cung cấp cơ sở hạ tầng công nghệ thông tin qua Internet. Người dùng có thể thuê và quản lý các tài nguyên như máy chủ, lưu trữ, và mạng mà không cần đầu tư vào phần cứng vật lý.
 
 **So sánh giữa 3 loại Server**:
 
