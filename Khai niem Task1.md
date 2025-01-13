@@ -26,7 +26,7 @@
 
 |                  | Dedicated Server                                          | VPS                                                                         | Cloud Server                                                       |
 |------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------|
-| Tài nguyên       | Tài nguyên độc lập, không chia sẻ<br>Dung lượng ổ đĩa lớn | Tài nguyên chia sẻ từ máy chủ vật lý<br>Dung lượng ổ đĩa hạn chế            | Tài nguyên ảo hóa từ nhiều máy chủ VPS<br>Dung lượng ổ đĩa hạn chế |
+| Tài nguyên       | Tài nguyên độc lập, không chia sẻ<br>Dung lượng ổ đĩa lớn | Tài nguyên chia sẻ từ máy chủ vật lý<br>Dung lượng ổ đĩa hạn chế            | Tài nguyên ảo hóa từ nhiều máy chủ<br>Dung lượng ổ đĩa hạn chế |
 | Hiệu suất        | Hiệu suất tối đa, không bị ảnh hưởng bởi người dùng khác  | Hiệu suất có thể bị ảnh hưởng bởi độ chịu tải của các VPS khác              | Hiệu suất cao, có thể mở rộng linh hoạt                            |
 | Khả năng mở rộng | Khó khăn trong việc nâng cấp phần cứng                    | Có thể nâng cấp nhưng phụ thuộc bởi tài nguyên của máy chủ vật lý           | Linh hoạt, dễ dàng mở rộng tài nguyên                              |
 | Bảo mật          | Bảo mật cao với quyền kiểm soát hoàn toàn của khách hàng  | Bảo mật tốt nhưng vẫn phụ thuộc vào máy chủ vật lý do nhà cung cấp cấu hình | Bảo mật cao với tính năng cô lập máy ảo                            |
