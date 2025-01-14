@@ -1,10 +1,8 @@
 **Dedicated Server là gì?**
 -
-- **Dedicated Server** (Máy chủ chuyên dụng) là một máy chủ vật lý độc lập, ở đó khách hàng thuê toàn bộ 1 máy chủ vật lý hoặc chỗ để máy chủ để sử dụng riêng cho mình.
+- **Dedicated Server** (Máy chủ chuyên dụng) là một máy chủ vật lý độc lập, ở đó khách hàng thuê toàn bộ 1 máy chủ vật lý bao gồm CPU, RAM, ổ cứng hoặc chỗ để máy chủ để sử dụng riêng cho mình.
 
-- Khách hàng có toàn quyền kiểm soát tài nguyên của máy chủ, bao gồm CPU, RAM, ổ cứng và các thiết bị hỗ trợ khác. Điều này cho phép họ tùy chỉnh cấu hình theo nhu cầu cụ thể của mình. 
-
-- **Dedicated Server** thường được đặt tại các trung tâm dữ liệu với hạ tầng hỗ trợ như nguồn điện dự phòng, mạng internet ổn định và hệ thống bảo mật cao.
+- Điều này cho phép họ tùy chỉnh cấu hình theo nhu cầu cụ thể của mình. 
 
 **VPS là gì?** 
 -
@@ -12,13 +10,11 @@
 
 - Mỗi **VPS** hoạt động như một máy chủ độc lập với phần cứng và tài nguyên riêng nhưng vẫn chia sẻ từ máy chủ vật lý gốc. 
 
-- **VPS** thường được sử dụng cho các ứng dụng web nhỏ đến trung bình, cung cấp mức độ kiểm soát và tùy chỉnh cao hơn so với các giải pháp lưu trữ chia sẻ.
-
 **Cloud Server là gì?**
 -
-- **Cloud Server** (Máy chủ đám mây) là một hệ thống máy chủ ảo hóa dựa trên công nghệ đám mây theo mô hình IaaS, cho phép truy cập tài nguyên tính toán từ nhiều máy chủ vật lý khác nhau.
+- **Cloud Server** (Máy chủ đám mây) là một hệ thống máy chủ ảo hóa dựa trên công nghệ đám mây theo mô hình IaaS, cho phép truy cập tài nguyên từ nhiều máy chủ ảo khác nhau.
 
-- **Cloud Server** cung cấp khả năng mở rộng linh hoạt, cho phép người dùng tăng hoặc giảm tài nguyên theo nhu cầu mà không gặp phải gián đoạn dịch vụ. 
+- Có khả năng mở rộng linh hoạt, cho phép người dùng tăng hoặc giảm tài nguyên theo nhu cầu mà không gặp phải gián đoạn dịch vụ. 
 
 - Đây là giải pháp lý tưởng cho các ứng dụng yêu cầu tính sẵn sàng cao và khả năng phục hồi tốt.
 
