@@ -52,29 +52,6 @@
     - Chức năng: Hosting cung cấp không gian lưu trữ, băng thông và tài nguyên kỹ thuật cần thiết để website có thể hoạt động liên tục 24/7. Nhà cung cấp hosting chịu trách nhiệm đảm bảo rằng máy chủ luôn hoạt động ổn định và an toàn trước các mối đe dọa từ bên ngoài.
     
     - Chúng ta có thể hình dung hosting giống như việc thuê một căn hộ cho website của bạn. Trong đó, website là sản phẩm mà bạn muốn giới thiệu đến khách hàng, còn hosting là nơi để trưng bày và chia sẻ sản phẩm đó với mọi người trên Internet.
-    
-- **Các loại Hosting**:
-
-    Có nhiều loại hình thức hosting khác nhau, bao gồm:
-    
-    - **Shared Hosting**: Nhiều website cùng chia sẻ một máy chủ. Phù hợp cho những trang web nhỏ với lưu lượng truy cập thấp.
-
-    - **VPS Hosting**: Máy chủ ảo riêng, cung cấp nhiều tài nguyên hơn so với shared hosting nhưng vẫn chia sẻ từ một máy chủ vật lý.
-
-    - **Dedicated Hosting**: Máy chủ chuyên dụng dành riêng cho một khách hàng, mang lại hiệu suất cao nhất.
-
-    - **Cloud Hosting**: Sử dụng nhiều máy chủ kết nối với nhau để cung cấp tài nguyên linh hoạt và khả năng mở rộng tốt hơn.
-    
-- Chúng ta cùng nhau điểm lại sự khác nhau giữa những loại **hosting** nói trên bằng bảng tóm tắt sau:
-    
-|                  | Shared Hosting                                                                | VPS Hosting                                                                 | Dedicated Hosting                                               | Cloud Hosting                                                                   |
-|------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Định Nghĩa       | Dịch vụ lưu trữ nhiều website trên một máy chủ vật lý.                        | Máy chủ ảo hóa chia sẻ tài nguyên từ một máy chủ vật lý.                    | Máy chủ vật lý độc lập dành riêng cho một khách hàng.           | Hệ thống máy chủ ảo hóa với tài nguyên từ nhiều máy chủ vật lý.                 |
-| Tài Nguyên       | Chia sẻ tài nguyên, dễ bị giới hạn.                                           | Tài nguyên riêng biệt hơn, nhưng vẫn chia sẻ từ máy chủ gốc.                | Tài nguyên hoàn toàn độc lập, không chia sẻ.                    | Tài nguyên linh hoạt, có thể mở rộng theo nhu cầu.                              |
-| Hiệu Năng        | Đủ cho website nhỏ, có thể bị ảnh hưởng bởi các trang khác.                   | Hiệu suất tốt hơn, nhưng có thể bị ảnh hưởng nếu máy chủ vật lý gặp sự cố.  | Hiệu suất tối đa, không bị ảnh hưởng bởi người dùng khác.       | Hiệu suất ổn định nhờ phân bổ tài nguyên qua nhiều máy chủ.                     |
-| Khả Năng Mở Rộng | Hạn chế, phải nâng cấp lên gói cao hơn khi cần thêm tài nguyên.               | Có thể nâng cấp nhưng phụ thuộc vào tài nguyên còn lại của máy chủ vật lý.  | Khó khăn trong việc nâng cấp phần cứng, có thể gây downtime.    | Dễ dàng mở rộng và hạ cấp linh hoạt khi nhu cầu thay đổi.                       |
-| Quản Trị         | Dễ quản lý, không yêu cầu nhiều kiến thức kỹ thuật.                           | Cần có kỹ năng quản trị để tối ưu hóa môi trường hosting.                   | Toàn quyền quản trị, yêu cầu kỹ năng cao trong quản lý máy chủ. | Yêu cầu kiến thức về quản trị đám mây, nhưng có dịch vụ hỗ trợ từ nhà cung cấp. |
-| Chi Phí          | Thường là lựa chọn tiết kiệm nhất cho người dùng cá nhân và doanh nghiệp nhỏ. | Chi phí vừa phải, phù hợp với doanh nghiệp vừa và nhỏ cần tính an toàn cao. | Chi phí cao nhất do sử dụng toàn bộ máy chủ riêng biệt.         | Chi phí linh hoạt theo mức sử dụng, nhưng vẫn cao hơn so với shared hosting.    |
 
 - Ngoài ra Vinahost cung cấp một loạt các dịch vụ khác nhau như WordPress hosting, Linux hosting, Window hosting,...
 
@@ -122,10 +99,19 @@
 
 - Mỗi người dùng cần có một địa chỉ email duy nhất để thực hiện việc này. Email đã trở thành một công cụ quan trọng trong giao tiếp cá nhân và doanh nghiệp.
 
-| Khái niệm       | Định nghĩa                                                         | Chức năng                                                                                                                          |
-|-----------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Email Server    | Máy chủ lưu trữ và quản lý email cho người dùng.                   | Chịu trách nhiệm gửi, nhận và lưu trữ email. Có thể là máy chủ riêng hoặc sử dụng dịch vụ bên ngoài.                               |
-| Email Hosting   | Dịch vụ cung cấp không gian lưu trữ cho email trên máy chủ.        | Cho phép người dùng tạo và quản lý tài khoản email với tên miền riêng, thường đi kèm với các tính năng bảo mật và hỗ trợ kỹ thuật. |
-| Email Relay     | Quá trình chuyển tiếp email từ một máy chủ đến một máy chủ khác.   | Giúp gửi email đến đích cuối cùng thông qua nhiều máy chủ khác nhau, thường được sử dụng để giảm tải hoặc bảo mật.                 |
-| Email Filter    | Công cụ hoặc quy tắc tự động để phân loại hoặc chặn email.         | Giúp người dùng quản lý hộp thư đến bằng cách lọc spam, phân loại theo danh mục hoặc ưu tiên.                                      |
-| Email Marketing | Chiến lược tiếp thị qua email nhằm quảng bá sản phẩm hoặc dịch vụ. | Sử dụng để gửi thông điệp quảng cáo đến danh sách khách hàng, thường đi kèm với các công cụ phân tích hiệu quả chiến dịch.         |
+![email drawio](https://github.com/user-attachments/assets/8fb3c76b-e2a3-4c5e-82d4-e224f1ffd176)
+
+Diễn giải tóm tắt:
+- (người bán) MUA = Email Server, Email Hosting ->
+
+(gửi trực tiếp đến server nội bộ, gửi thông qua sever bên thứ 3)
+
+ - (bưu cục phân phát) MTA = Email Relay, Email Marketing, Email filter ->
+
+*tại đây, MTA thực hiện lọc spam, quản lý hàng đợi gửi, và bảo mật thông qua các giao thức như SPF, DKIM*
+
+(nhận mail từ email server và chuyển tiếp đến MTA khác, email relay không nhận chuyển tiếp từ email hosting)
+
+- ...-> MDA (người phát bưu cục)-> MUA -> hộp email người nhận.
+
+(email server, email hosting: người nhận truy cập hộp thư thông qua MUA, riêng email hosting sẽ bị hạn chế: người nhận -> MUA (email hosting) -> hộp thư chia sẻ bên thứ 3)
