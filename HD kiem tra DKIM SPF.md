@@ -36,7 +36,7 @@ Trong đó:
 -
 - Để kiểm tra cấu hình của SPF Record đã đúng (Pass) sử dụng công cụ trực tuyến bằng cách truy cập  **dkimvalidator.com**:
 
-    - Sử dụng email cần kiểm tra (user1@tuanhhxtts.freehost.vn) để gửi đến email như hình:
+    - Sử dụng email cần kiểm tra  để gửi đến email như hình:
     
     ![image](https://github.com/user-attachments/assets/acb4f038-e14d-43e1-a41f-190185b65d2f)
 
@@ -46,7 +46,7 @@ Trong đó:
 
 - Tiếp theo để kiểm tra cấu hình của DKIM Record đã đúng (Pass) sử sụng công cụ trực tuyến **dkimvalidator.com**:
 
-    - Sử dụng email cần kiểm tra (**user1@tuanhhxtts.freehost.vn**) để gửi đến email như hình:
+    - Sử dụng email cần kiểm tra để gửi đến email như hình:
     
     ![image](https://github.com/user-attachments/assets/ef05c031-d834-4539-944f-b28e92bd1186)
 
@@ -58,7 +58,7 @@ Trong đó:
  
     *Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Pass*
 
-Thực hiện thử gửi email từ **user1@tuanhhxtts.freehost.vn** đến một email cá nhân, để xem trạng thái SPF và DKIM:
+Thực hiện thử gửi email từ trong domain đến một email cá nhân, để xem trạng thái SPF và DKIM:
 
 ![image](https://github.com/user-attachments/assets/5ef60310-c250-42d0-838a-526763ff3f09)
 
