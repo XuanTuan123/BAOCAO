@@ -41,8 +41,8 @@ Trong đó:
     ![image](https://github.com/user-attachments/assets/acb4f038-e14d-43e1-a41f-190185b65d2f)
 
     - Kết quả hiển thị như sau:
-    
-    ![image](https://github.com/user-attachments/assets/2efa6a3d-e49d-495a-934f-c7e6d98c90cd)
+
+    ![spf-pass](https://github.com/user-attachments/assets/6d801087-275d-48a7-b1ff-26f80af33f57)
 
 - Tiếp theo để kiểm tra cấu hình của DKIM Record đã đúng (Pass) sử sụng công cụ trực tuyến **dkimvalidator.com**:
 
