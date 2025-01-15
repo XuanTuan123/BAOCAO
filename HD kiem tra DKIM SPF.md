@@ -52,8 +52,6 @@ Trong đó:
 
     - Kết quả sau khi gửi và nhấn **View result** sẽ hiển thị như sau:
 
-    ![image](https://github.com/user-attachments/assets/2cef4c1c-4ed3-4de4-bcd8-734ea88269a8)
-
     ![image](https://github.com/user-attachments/assets/925f7c69-d7b7-46b9-b134-8d39e6f7987c)
  
     *Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Pass*
