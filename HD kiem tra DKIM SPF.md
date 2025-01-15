@@ -60,6 +60,10 @@ Thực hiện thử gửi email từ trong domain đến một email cá nhân, 
 
 ![thu-goc](https://github.com/user-attachments/assets/b883ecfd-f3d8-4218-a121-fd5779bcd1c5)
 
+- Cách xem thư gốc của 1 email:
+
+
+
 - Để xem hành trình gửi nhận email trong hệ thống, tại **Dashboard** nhấn chọn **Track Delivery**:
 
 ![image](https://github.com/user-attachments/assets/cb0699b6-aa1b-4a5e-8181-1bfeeb00f7d2)
