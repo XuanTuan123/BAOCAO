@@ -58,7 +58,7 @@ Trong đó:
 
 Thực hiện thử gửi email từ trong domain đến một email cá nhân, để xem trạng thái SPF và DKIM:
 
-![image](https://github.com/user-attachments/assets/5ef60310-c250-42d0-838a-526763ff3f09)
+![thu-goc](https://github.com/user-attachments/assets/b883ecfd-f3d8-4218-a121-fd5779bcd1c5)
 
 - Để xem hành trình gửi nhận email trong hệ thống, tại **Dashboard** nhấn chọn **Track Delivery**:
 
