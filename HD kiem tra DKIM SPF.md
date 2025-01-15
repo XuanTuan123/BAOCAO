@@ -52,8 +52,8 @@ Trong đó:
 
     - Kết quả sau khi gửi và nhấn **View result** sẽ hiển thị như sau:
 
-    ![image](https://github.com/user-attachments/assets/925f7c69-d7b7-46b9-b134-8d39e6f7987c)
- 
+    ![dkim-pass](https://github.com/user-attachments/assets/b7878607-6c18-43fd-8d9b-8f77bc1f01d0)
+
     *Đây là hình ảnh cho việc email đã gửi SPF và DKIM: Pass*
 
 Thực hiện thử gửi email từ trong domain đến một email cá nhân, để xem trạng thái SPF và DKIM:
