@@ -94,4 +94,7 @@ Passwd: passwd được tạo cho user
     systemctl status dovecot
     cat /var/log/mail.log 
     tail -f /var/log/mail.log 
+
+*Xem log theo địa chỉ của email*
+
     grep 'dia-chi-email-nhan' /var/log/mail.log
