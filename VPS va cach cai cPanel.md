@@ -40,7 +40,7 @@ Ví dụ: mysql mariadb = 10.6 thì
 
 **Thông tin đăng nhập WHM**
 -
-https:/ip-server-vps:2087 hoặc https://ten-vps.cprapid.com:2087
+https://ip-server-vps:2087 hoặc https://ten-vps.cprapid.com:2087
 
 User: root
 
