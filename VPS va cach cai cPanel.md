@@ -38,6 +38,8 @@ Ví dụ: mysql mariadb = 10.6 thì
      service cpanel status
      service cpanel restart
 
+![image](https://github.com/user-attachments/assets/d34cf930-9587-48d4-8b7c-36bb14567e4d)
+
 *Nâng cấp phiên bản Ubuntu*
 
      do-release-upgrade 
