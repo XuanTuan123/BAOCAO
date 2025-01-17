@@ -31,6 +31,8 @@ Ví dụ: mysql mariadb = 10.6 thì
 
      tail -f /var/log/cpanel-install.log
 
+![image](https://github.com/user-attachments/assets/6d31e619-4b45-47e2-a649-9b3b9658c095)
+
 **6. Xem trạng thái dịch vụ**
 
      service cpanel status
