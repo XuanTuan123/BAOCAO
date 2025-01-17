@@ -61,13 +61,18 @@ User: user được tạo trong WHM
 Passwd: passwd được tạo cho user
 
 =================================================
+
 **Lệnh xem thông tin disk free**:
 
      free -m
 
+![image](https://github.com/user-attachments/assets/c2f03521-009c-49e8-853f-1e57d00e96f9)
+
 **Lệnh xem thông tin đăng nhập**:
 
      cat /usr/local/cpanel/logs/login_log
+
+![image](https://github.com/user-attachments/assets/a863dcdc-54e4-4e1d-93e7-7bb7a10c6f11)
 
 =================================================
 
