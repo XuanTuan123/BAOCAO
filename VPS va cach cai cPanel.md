@@ -21,6 +21,8 @@ Sử dụng 2 lệnh sau:
 
      mysql -V
 
+![image](https://github.com/user-attachments/assets/f437ba21-6a38-4eb5-b645-6e844eb7b076)
+
 Ví dụ: mysql mariadb = 10.6 thì 
 
      echo "mysql-version=10.6" > /root/cpanel_profile/cpanel.config
